@@ -8,7 +8,7 @@ notification: click here to login to eLearn
 sections:
     - hero:
         title: Build what's nExt
-        subtitle: what's nExt
+        subtitle: 
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
