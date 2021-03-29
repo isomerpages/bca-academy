@@ -47,6 +47,14 @@ sections:
           url: hhttps://www.instagram.com/tpsalvo/
           image: /images/Salvo2.jpg
           alt: Salvo2
+     - infopic:
+        title: What Are The BE Transformation Targets? 
+        # subtitle: What we are doing about climate change?
+        description: BE comprises both visible structures (buildings) & invisible infrastructure (pipes, cabling) that enable the connectivity and conveniences of our modern life. 
+        # button: Learn more
+        # url: https://climategamechanger.sg/
+        image: /images/cover2.PNG
+        alt: .   
     - resources:
         title: Media
         subtitle: Learn more
