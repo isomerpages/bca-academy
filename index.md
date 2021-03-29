@@ -6,12 +6,12 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: click here to login to eLearn
 sections:
-    - hero:
-        background: 
-        # images/hero-banner.png
-        title: <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&display=swap" rel="stylesheet"><h1 style="font-family:'Cabin','Lato'; font-weight:600; color:white;text-align:right;font-size:0.8em;line-height:1.1em; text-shadow:black 0px 0px 3px;">Sustainable.<br> Resource-efficient.<br>Climate-resilient.</h1><meta property="og:image" content="/images/thumbnail.jpg">
-        subtitle:   <video autoplay muted playsinline loop poster="images/banner.png" id="bannerVideo"><source src="/images/banner-video.mp4" type="video/webm"></video>
-#   <source src="polina.mp4" type="video/mp4"> add another backup video in mp4
+   - hero:
+        title: Build what's nExt
+        subtitle: what's nExt
+        background: /images/hero-banner.png
+        button: Contact Us
+        url: /contact-us/
     - infobar:
         title: 
         # subtitle: What we are doing about climate change?
