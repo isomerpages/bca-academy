@@ -23,9 +23,9 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
+        title: BE Knowledge Hub
         subtitle: Subtitle
-        description: About a sentence worth of description here
+        description: Your resource portal for the Built Environment (BE)
         button: Button text
         url: /faq/
     - resources:
