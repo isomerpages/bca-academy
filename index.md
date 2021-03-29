@@ -16,10 +16,10 @@ sections:
         button: learn more 
         url: /faq/
     - infobar:
-        title: We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore
+        title: 
         description:  Our Partners
     - infopic:
-        title: Climate Action Plan
+        title: All of us live, work + play within the Built Environment
         # subtitle: What we are doing about climate change?
         description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/policies/climate-change/climategamechanger">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
         # button: Learn more
