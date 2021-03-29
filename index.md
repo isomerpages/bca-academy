@@ -1,122 +1,57 @@
 ---
 layout: homepage
-title: TP Virtual Campus
-description: The TP Virtual Campus is home to student activities from all across TP!
-image: /images/isomer-logo.svg
+title: Home - MSE
+description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
+image: /images/thumbnail.png
+notification: <p><a href="/cos/"><b>Click here</b></a> to access MSE Committee of Supply 2021 materials</p>
 permalink: /
-notification: Welcome to the new TP Virtual Campus!
 sections:
     - hero:
-        title: Virtually The Place To Be
-        subtitle: Explore 8 exciting channels of student activities from all around TP!
-        button: Sign Up for CCA
-        url: /be-involved/highlights/
-#        background: /images/download1.jpg
-        background: /images/VC_eBanner.jpg
-        key_highlights:
-#            - title: Student Portal
-#              description: Get to your student portal here
-#              url: https://services.tp.edu.sg/
-#            - title: TP Corporate Website
-#              description: Need anything from TP Website?
-#              url: https://www.tp.edu.sg/
-            - title: Be Involved
-              description: Wanna be part of our 140+ CCAs in TP?
-              url: /be-involved/highlights/
-            - title: Be Entertained
-              description: Watch, listen and be entertained with content created by TP, free-of-charge!
-              url: /be-entertained/highlights/
-            - title: Be Awesome
-              description: Stay physically and mentally fit with tips and programmes curated by TP students!
-              url: /be-awesome/nutritional-tips/
-            - title: ...And More!
-              description: Check out the other channels to see what else is happening around campus!
-              url: /be-caring/caring-for-community/
-    - carousel:
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Vibrant & Creative, Disciplined & Impactful
-          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
-          image: /images/Salvo1.jpg  
-          alt: Salvo1
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Award Winning Drumming Champion
-          url: hhttps://www.instagram.com/tpsalvo/
-          image: /images/Salvo2.jpg
-          alt: Salvo2
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Choreographed Synchonised Movements
-          url: https://www.instagram.com/tpsalvo/
-          image: /images/Salvo3.jpg
-          alt: Salvo3
-
+        background: 
+        # images/banner.png
+        # video: /images/pexel.mp4
+        title: <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&display=swap" rel="stylesheet"><h1 style="font-family:'Cabin','Lato'; font-weight:600; color:white;text-align:right;font-size:0.8em;line-height:1.1em; text-shadow:black 0px 0px 3px;">Sustainable.<br> Resource-efficient.<br>Climate-resilient.</h1><meta property="og:image" content="/images/thumbnail.jpg">
+        subtitle:   <video autoplay muted playsinline loop poster="images/banner.png" id="bannerVideo"><source src="/images/banner-video.mp4" type="video/webm"></video>
+#   <source src="polina.mp4" type="video/mp4"> add another backup video in mp4
+    - infobar:
+        title: 
+        # subtitle: What we are doing about climate change?
+        description: <b><h6 style="font-family:'Cabin'">INTRODUCING<br></h6></b><a href="https://www.greenplan.gov.sg/"><img src="/images/sgplogo.png"></a><br><a class="button_sgp30" href="https://www.greenplan.gov.sg/">Learn More</a>
+    #     # button: Learn more
+    #     # url: https://climategamechanger.sg/
+    #     alt: SGP30
+    - infobar:
+        title: <h2 style="font-family:'Cabin'">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
+        description:  
     - infopic:
-        title: IPPT & NS Prep
-        subtitle: IPPT Training
-        image: /images/BeAwesome-iFIT.png
-        description: Resources to improve IPPT performance and preparation for National Service
-        button: IPPT & NS Prep
-        url: https://tp-vc-staging.netlify.app/be-awesome/ippt/
-        alt: IPPT & NS Prep
-    
+        title: <h2 style="font-family:'Cabin'">Climate Action Plan</h2>
+        # subtitle: What we are doing about climate change?
+        description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/policies/climate-change/climategamechanger">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
+        # button: Learn more
+        # url: https://climategamechanger.sg/
+        image: /images/infopic-1.svg
+        alt: Game changing climate change
     - infopic:
-        title: Electric Dreams Online Concert
-        subtitle: Featured Event
-        image: /images/BeEntertained-ElectricDreams1.jpg
-        description: Catch the excitement-filled online concert of the best music and dance that is sure to raise your spirits!
-        button: Electric Dreams
-        url: https://www.youtube.com/watch?v=afTmefWjtiY&feature=youtu.be
-        alt: Electric Dreams
-
+        title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
+        # subtitle: What can you do?
+        description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
+        # url: /take-action/individuals
+        image: /images/infopic-2.svg
+        alt: Zero Waste Masterplan
     - infopic:
-        title: Temasek Student Excellence Awards 2020
-        subtitle: Featured Event
-        image: /images/Featured-TSEA2020_1.png
-        description: Be inspired by the recipients' achievements!
-        button: TSEA
-        url: https://www.tp.edu.sg/tsea2020/
-        alt: TSEA2020
-
-    - infopic:
-        title: Poly-ITE Staff Appreciation Day 2020
-        subtitle: Featured Event
-        image: /images/BeUpdated-SAD_3.jpg
-        description: Find out what transpired at the inaugural Poly-ITE Staff Appreciation Day right here!
-        button: Watch Here
-        url: /be-updated/event-highlights/
-        alt: SAD
-        
-    - infopic:
-        title: Launch of the TP Oei App
-        subtitle: New Student App
-        image: /images/Homepage-TPoei.png
-        description: A new app to augment your student experience!
-        button: Download here
-        url: https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei
-        alt: TPOEI
-    
-    - infopic:
-        title: Launch of Stories & Co
-        subtitle: Student Publication
-        image: /images/Homepage-Storiesco.png
-        description: Stories & Co. is produced by the student journalists from the Diploma in Communications & Media Management from Temasek Polytechnic’s School of Business. The publication covers campus news, as well as youth-related trends and issues – for youths, by youths! Just click 🖱 on the link below to watch the first story!
-        button: Stories & Co
-        url: https://www.instagram.com/p/CGgz2FJFCBq/
-        alt: Stories
-       
-    - infopic:
-        title: Want to be featured on this Virtual Campus?
-        subtitle: Reach out to us
-        image: /images/Contact-Shoutout.JPG
-        description: Do you have something exciting, share with us!
-        button: Contact us
-        url: /contact-us/
-        alt: Shoutout   
-
-#    - resources:
-#        title: Media
-#        subtitle: Learn more
-#        button: View More
+        title: <h2 style="font-family:'Cabin'">Sustainability is for Everyone</h2>
+        # subtitle: What can you do?
+        description: There is a role for everyone to play. We must work together so that future generations will continue to enjoy the green and liveable island we call home.
+        button: Get Involved
+        url: /take-action/individuals
+        image: /images/infopic-3.svg
+        alt: Members of the Ministry of ABC in suits
+    - infobar:
+        title: <h2 style="font-family:'Cabin'">Want to find out more?</h2>
+        description: Our work is wide-ranging and touches many aspects of our lives. <br>Learn how our policies tackle these issues.
+        url: /policies/overview/
+        button: View Our Policies
+    - resources:
+        subtitle: <h2 style="font-family:'Cabin'">Latest News</h2>
+        button: News Catalogue
 ---
