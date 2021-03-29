@@ -37,7 +37,7 @@ sections:
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: The Construction ITM envisions an advanced and integrated sector with widespread adoption of leading technologies, led by progressive and collaborative firms well-poised to capture business opportunities, and supported by a skilled and competent workforce.          
+          description: The Construction        
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/citm01.png  
           alt: Salvo1
