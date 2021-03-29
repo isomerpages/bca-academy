@@ -1,15 +1,14 @@
 ---
 layout: homepage
-title: Home - MSE
-description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
+title: BE KNOWLEDGE HUB
+description: Resource POrtal for the Built Environment
 image: /images/thumbnail.png
 notification: <p><a href="/cos/"><b>Click here</b></a> to access MSE Committee of Supply 2021 materials</p>
 permalink: /
 sections:
     - hero:
         background: 
-        # images/banner.png
-        # video: /images/pexel.mp4
+        # images/hero-banner.png
         title: <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&display=swap" rel="stylesheet"><h1 style="font-family:'Cabin','Lato'; font-weight:600; color:white;text-align:right;font-size:0.8em;line-height:1.1em; text-shadow:black 0px 0px 3px;">Sustainable.<br> Resource-efficient.<br>Climate-resilient.</h1><meta property="og:image" content="/images/thumbnail.jpg">
         subtitle:   <video autoplay muted playsinline loop poster="images/banner.png" id="bannerVideo"><source src="/images/banner-video.mp4" type="video/webm"></video>
 #   <source src="polina.mp4" type="video/mp4"> add another backup video in mp4
