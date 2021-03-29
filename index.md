@@ -21,12 +21,12 @@ sections:
     - carousel:
         - title: 
           subtitle: CITM
-          description: The Construction ITM envisions an advanced and integrated sector with widespread adoption of leading technologies, led by progressive and collaborative firms well-poised to capture business opportunities, and supported by a skilled and competent workforce
+          description: Construction ITM (CITM) envisions an advanced and integrated sector with widespread adoption of leading technologies, led by progressive and collaborative firms well-poised to capture business opportunities, and supported by a skilled and competent workforce
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/citm01.PNG  
           alt: Salvo1
-        - title: Salvo Drums
-          subtitle: Featured CCA
+        - title: IDD/BIM
+          subtitle: CITM
           description: Award Winning Drumming Champion
           url: hhttps://www.instagram.com/tpsalvo/
           image: /images/citm02.PNG
