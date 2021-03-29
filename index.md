@@ -13,11 +13,11 @@ sections:
     - infobar:
         title: BE Knowledge Hub
         description: Your resource portal for the Built Environment (BE)
-        button: learn more about us
+        button: learn more 
         url: /faq/
     - infobar:
-        title: <h2 style="font-family:'Cabin'">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
-        description:  
+        title: We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore
+        description:  Our Partners
     - infopic:
         title: Climate Action Plan
         # subtitle: What we are doing about climate change?
