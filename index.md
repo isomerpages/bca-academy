@@ -12,9 +12,8 @@ sections:
         background: /images/hero-banner.png
     - infobar:
         title: BE Knowledge Hub
-        subtitle: Subtitle
         description: Your resource portal for the Built Environment (BE)
-        button: Button text
+        button: learn more about us
         url: /faq/
     - infobar:
         title: <h2 style="font-family:'Cabin'">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
