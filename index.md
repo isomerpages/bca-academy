@@ -29,7 +29,7 @@ sections:
         button: Button text
         url: /faq/
     - infopic:
-        title: <h2 style="font-family:'Cabin'">Climate Action Plan</h2>
+        title: Climate Action Plan
         # subtitle: What we are doing about climate change?
         description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/policies/climate-change/climategamechanger">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
         # button: Learn more
