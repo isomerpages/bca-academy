@@ -7,7 +7,7 @@ permalink: /
 notification: click here to login to eLearn
 sections:
     - hero:
-        title: Build what's nExt <br> Resource-efficient
+        title: Build  <br> what's nExt <br> 
         subtitle: 
         background: /images/hero-banner.png
     - infobar:
