@@ -19,8 +19,8 @@ sections:
         button: Button text
         url: /faq/
     - carousel:
-        - title: Salvo Drums
-          subtitle: Featured CCA
+        - title: 
+          subtitle: CITM
           description: Vibrant & Creative, Disciplined & Impactful
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/citm01.PNG  
