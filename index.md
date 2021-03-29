@@ -34,6 +34,13 @@ sections:
         # url: https://climategamechanger.sg/
         image: /images/cover2.PNG
         alt: .
+    - carousel:
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Vibrant & Creative, Disciplined & Impactful
+          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
+          image: /images/Salvo1.jpg  
+          alt: Salvo1
     - resources:
         title: Media
         subtitle: Learn more
