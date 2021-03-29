@@ -28,6 +28,26 @@ sections:
         description: Your resource portal for the Built Environment (BE)
         button: Button text
         url: /faq/
+    - carousel:
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Vibrant & Creative, Disciplined & Impactful
+          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
+          image: /images/Salvo1.jpg  
+          alt: Salvo1
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Award Winning Drumming Champion
+          url: hhttps://www.instagram.com/tpsalvo/
+          image: /images/Salvo2.jpg
+          alt: Salvo2
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Choreographed Synchonised Movements
+          url: https://www.instagram.com/tpsalvo/
+          image: /images/Salvo3.jpg
+          alt: Salvo3
+          
     - resources:
         title: Media
         subtitle: Learn more
