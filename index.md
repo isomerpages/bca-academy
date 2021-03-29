@@ -44,7 +44,7 @@ sections:
         - title: Salvo Drums
           subtitle: Featured CCA
           description: Award Winning Drumming Champion
-          url: hhttps://www.instagram.com/tpsalvo/
+          url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo2.jpg
           alt: Salvo2
      - infopic:
