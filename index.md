@@ -27,6 +27,7 @@ sections:
         image: /images/cover1.PNG
         alt: .
     - infopic:
+        title: All of us live, work + play within the Built Environment
         title: What Are The BE Transformation Targets? 
         # subtitle: What we are doing about climate change?
         description: BE comprises both visible structures (buildings) & invisible infrastructure (pipes, cabling) that enable the connectivity and conveniences of our modern life. 
@@ -34,27 +35,6 @@ sections:
         # url: https://climategamechanger.sg/
         image: /images/cover2.PNG
         alt: .
-    - carousel:
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Vibrant & Creative, Disciplined & Impactful
-          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
-          image: /images/cover1.png  
-          alt: Salvo1
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Award Winning Drumming Champion
-          url: hhttps://www.instagram.com/tpsalvo/
-          image: /images/Salvo2.jpg
-          alt: Salvo2
-     - infopic:
-        title: What Are The BE Transformation Targets? 
-        # subtitle: What we are doing about climate change?
-        description: BE comprises both visible structures (buildings) & invisible infrastructure (pipes, cabling) that enable the connectivity and conveniences of our modern life. 
-        # button: Learn more
-        # url: https://climategamechanger.sg/
-        image: /images/cover2.PNG
-        alt: .   
     - resources:
         title: Media
         subtitle: Learn more
