@@ -33,7 +33,7 @@ sections:
         # button: Learn more
         # url: https://climategamechanger.sg/
         image: /images/cover2.PNG
-        alt: .
+        alt: ..
     - infopic:
         title: What Are The BE Transformation Targets? 
         # subtitle: What we are doing about climate change?
