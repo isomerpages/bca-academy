@@ -24,7 +24,7 @@ sections:
         description: BE comprises both visible structures (buildings) & invisible infrastructure (pipes, cabling) that enable the connectivity and conveniences of our modern life. 
         # button: Learn more
         # url: https://climategamechanger.sg/
-        image: /images/infopic-1.svg
+        image: /images/cover1.PNG
         alt: .
     - resources:
         title: Media
