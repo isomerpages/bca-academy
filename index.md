@@ -26,6 +26,13 @@ sections:
         # url: https://climategamechanger.sg/
         image: /images/cover1.PNG
         alt: .
+     - infopic:
+        title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
+        # subtitle: What can you do?
+        description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
+        # url: /take-action/individuals
+        image: /images/infopic-2.svg
+        alt: Zero Waste Masterplan
     - resources:
         title: Media
         subtitle: Learn more
