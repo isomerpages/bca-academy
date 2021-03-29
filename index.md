@@ -27,7 +27,7 @@ sections:
         image: /images/cover1.PNG
         alt: .
     - infopic:
-        title: All of us live, work + play within the Built Environment
+        title: What Are The BE Transformation Targets? 
         # subtitle: What we are doing about climate change?
         description: BE comprises both visible structures (buildings) & invisible infrastructure (pipes, cabling) that enable the connectivity and conveniences of our modern life. 
         # button: Learn more
