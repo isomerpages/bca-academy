@@ -25,7 +25,7 @@ sections:
         # button: Learn more
         # url: https://climategamechanger.sg/
         image: /images/infopic-1.svg
-        alt: 
+        alt: .
     - resources:
         title: Media
         subtitle: Learn more
