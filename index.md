@@ -28,6 +28,9 @@ sections:
         description: Your resource portal for the Built Environment (BE)
         button: Button text
         url: /faq/
+    - infobar:
+        title: <h2 style="font-family:'Cabin'">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
+        description:  
     - infopic:
         title: Climate Action Plan
         # subtitle: What we are doing about climate change?
