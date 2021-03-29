@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: BE KNOWLEDGE HUB
-description: Resource POrtal for the Built Environment
-image: /images/thumbnail.png
-notification: <p><a href="/cos/"><b>Click here</b></a> to access MSE Committee of Supply 2021 materials</p>
+title: BE Knowldege Hub
+description: Brief site description here
+image: /images/isomer-logo.svg
 permalink: /
+notification: click here to login to eLearn
 sections:
     - hero:
         background: 
