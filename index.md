@@ -24,12 +24,12 @@ sections:
         description: The world is integrated + interlinked. This calls for a collective collaboration amongst industry stakeholders to achieve common goals. </p><img class="mse-infopic-media-left" src="/images/partner1.PNG" alt="partner" /><p class="mse-none">
     - infopic:
         title: All of us live, work + play within the Built Environment
-        description: </p><p>The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net zero emissions aspiration as soon as viable.
+        description: </p><p>BE comprises both visible structures (buildings) & invisible infrastructure (pipes, cabling) that enable the connectivity and conveniences of our modern life. 
         image: /images/cover1.PNG
         alt: Why Green Plan
     - infopic:
-        title: What Are The Green Plan’s Key Targets?
-        description: </p><p><ul><li>- Plant 1 million more trees</li><li>- Quadruple solar energy deployment by 2025</li><li>- Reduce the waste sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul></p><img class="mse-infopic-media-left" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
+        title: What Are The BE Transformation Targets?
+        description: </p><p><ul><li>- Integrated Digital Delivery (ISS) up to 60 projects by 2020</li><li>- Quadruple solar energy deployment by 2025</li><li>- Reduce the waste sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul></p><img class="mse-infopic-media-left" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
         button: View more
         url: /key-focus-areas/our-targets/
         image: /images/index/impacts-of-climate-change.jpg
