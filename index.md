@@ -18,7 +18,7 @@ sections:
         description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
     - infobar:
         title: 
-        description: The world is integrated + interlinked. This calls for a collective collaboration amongst industry stakeholders to achieve common goals. </p><img class="mse-infopic-media-left" src="/images/partner1.PNG" alt="partner" /><p class="mse-none">
+        description: </p><img class="mse-infopic-media-left" src="/images/partner2.PNG" alt="partner" /><p class="mse-none">
     - infopic:
         title: All of us live, work + play within the Built Environment
         description: </p><p>BE comprises both visible structures (buildings) & invisible infrastructure (pipes, cabling) that enable the connectivity and conveniences of our modern life. 
