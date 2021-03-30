@@ -12,6 +12,11 @@ permalink: /key-focus-areas/vision/
  
 
 ![Sustainable Dessvelopment](/images/idd01.PNG)
+![Sustainable Dessvelopment](/images/idd02.PNG)
+![Sustainable Dessvelopment](/images/idd03.PNG)
+![Sustainable Dessvelopment](/images/idd04.PNG)
+![Sustainable Dessvelopment](/images/idd05.PNG)
+
 
 With IDD, all project stakeholders have a real-time view of construction process as well as access and share information. Such centralised and up-to-date data enables teams to plan better, make faster decisions and ultimately, avoid cost delays and reworks. IDD is set to enhance four key areas of the construction process:
 
