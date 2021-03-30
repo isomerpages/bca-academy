@@ -8,7 +8,12 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: BE Transformation
-    url: /Be-Transformation/
+    url: /who-we-are/overview/
+   sub-links:
+  - title: Overview
+    url: /who-we-are/overview/
+  - title: Functions
+    url: /who-we-are/functions/
   - title: Example Single Page
     url: /example-single-page/
   - title: Example Collection
