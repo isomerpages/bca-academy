@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
-
 - title: Who We Are
   url: /who-we-are/overview/
   sub-links:
