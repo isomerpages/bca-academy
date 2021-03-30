@@ -10,8 +10,6 @@ sections:
         title: Build what's nExt
         subtitle: 
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
     - infobar:
         title: 
         subtitle: 
