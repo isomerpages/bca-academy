@@ -53,10 +53,6 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/citm04.PNG
           alt: Salvo3
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
     - infobar:
         title: BE. Skilled
         subtitle: 
