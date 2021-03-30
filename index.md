@@ -14,7 +14,7 @@ sections:
         url: /contact-us/
     - infobar:
         title: BE Knowledge Hub
-        subtitle: Subtitle
+        subtitle: 
         description: Your resource portal for the Built Environment (BE)
         button: Button text
         url: /faq/
