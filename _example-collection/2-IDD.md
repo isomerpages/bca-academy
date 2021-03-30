@@ -1,5 +1,5 @@
 ---
-title: Our Vision
+title: Integrated Digital Delivery (IDD)
 description:  
 permalink: /key-focus-areas/vision/
 ---
