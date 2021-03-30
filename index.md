@@ -16,10 +16,8 @@ sections:
         title: BE Knowledge Hub
         subtitle: 
         description: Your resource portal for the Built Environment (BE)
-        image: /images/citm01.PNG
-        alt: Impact
     - infobar:
-        title: ...
+        title: Partner
         subtitle: Our Partners
         description: Our Partners
         button: Button text
