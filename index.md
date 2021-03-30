@@ -19,8 +19,8 @@ sections:
         button: Button text
         url: /faq/
     - infobar:
-        title: BE Knowledge Hub
-        subtitle: 
+        title: 
+        subtitle: Our Partners
         description: Your resource portal for the Built Environment (BE)
         button: Button text
         url: /faq/
