@@ -10,10 +10,6 @@ sections:
         title: Build what's nExt
         subtitle: 
         background: /images/hero-banner.png
-    - hero:
-        title: Build what's nExt
-        subtitle: 
-        background: /images/hero-banner.png
     - infobar:
         subtitle: INTRODUCING
         description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
@@ -56,8 +52,12 @@ sections:
           description: Choreographed Synchonised Movements
           url: https://www.instagram.com/tpsalvo/
           image: /images/citm04.PNG
-          alt: Salvo3
-    - resources:
+          alt: Salvo3  
+       - hero:
+        title: Build what's nExt
+        subtitle: 
+        background: /images/hero-banner.png       
+      - resources:
         title: Media
         subtitle: Learn more
         button: View More
