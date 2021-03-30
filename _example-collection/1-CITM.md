@@ -6,7 +6,7 @@ permalink: /key-focus-areas/vision/
 
 **Sustainable Development – A Core Belief**
 
-![Sustainable Development](/images/framework/manifesto_sustainabledevelopment.jpg)
+![Sustainable Development](/images/citm01.png)
 
 Climate change is an existential threat of our times. It has brought rising sea levels and extreme weather patterns. Around the world, millions of lives and livelihoods are in danger. Singapore, as a low-lying island state, is particularly vulnerable.
 
