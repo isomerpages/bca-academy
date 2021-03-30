@@ -21,13 +21,13 @@ sections:
     - carousel:
         - title: 
           subtitle:
-          description: CITM envisions an advanced and integrated sector with widespread adoption of leading technologies, led by progressive and collaborative firms well-poised to capture business opportunities, and supported by a skilled and competent workforce
+          description: CITM envisions an advanced and integrated BE sector with adoption of leading technologies, led by progressive and collaborative firms; and supported by a skilled and competent workforce
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/citm01.PNG  
           alt: Salvo1
         - title: IDD/BIM
           subtitle: CITM
-          description: Award Winning Drumming Champion
+          description: Building Information Modelling (BIM) is identified as a key technology to improve productivity & level of integration across various disciplines across the entire construction value chain. Adoption of BIM is key to the success of Integrated Digital Delivery (IDD).
           url: hhttps://www.instagram.com/tpsalvo/
           image: /images/citm02.PNG
           alt: Salvo2
