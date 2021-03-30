@@ -18,6 +18,7 @@ sections:
         description: Your resource portal for the Built Environment (BE)
         button: Button text
         url: /faq/
+        </p><img class="mse-infopic-media-left" src="/images/partner1.PNG" alt="partner" /><p class="mse-none">
     - infobar:
         title: 
         subtitle: Our Partners
