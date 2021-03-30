@@ -22,8 +22,6 @@ sections:
         title: 
         subtitle: Our Partners
         description: The world is integrated + interlinked. This calls for a collective collaboration amongst industry stakeholders to achieve common goals. 
-        button: text
-        url: /faq/
     - infopic:
         title: All of us live, work + play within the Built Environment
         description: </p><p>The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net zero emissions aspiration as soon as viable.</p><img class="mse-infopic-media-left" src="/images/citm01.PNG" alt="Why Green Plan" /><p class="mse-none">
