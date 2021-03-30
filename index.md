@@ -57,7 +57,7 @@ sections:
         title: Media
         subtitle: Learn more
         button: View More
-     - infobar:
+    - infobar:
         subtitle: INTRODUCING
         description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
 ---
