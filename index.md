@@ -53,7 +53,10 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/citm04.PNG
           alt: Salvo3
-    - resources:
+      - infobar:
+        subtitle: Our Partners
+        description: </p><img class="mse-infopic-media-left" src="/images/partner2.PNG" alt="partner" /><p class="mse-none">
+       - resources:
         title: Media
         subtitle: Learn more
         button: View More
