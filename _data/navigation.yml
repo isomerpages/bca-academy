@@ -7,11 +7,12 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: BE Transformation
+    url: /Be-Transformation/
   - title: Example Single Page
     url: /example-single-page/
   - title: Example Collection
     collection: example-collection
   - title: Example Resource Room
     resource_room: true
+  - title: Contact Us
