@@ -19,8 +19,8 @@ sections:
         button: Button text
         url: /faq/
     - carousel:
-        - title: Construction
-          subtitle: ITM
+        - title: 
+          subtitle:
           description: CITM envisions an advanced and integrated sector with widespread adoption of leading technologies, led by progressive and collaborative firms well-poised to capture business opportunities, and supported by a skilled and competent workforce
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/citm01.PNG  
