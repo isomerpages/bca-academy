@@ -16,6 +16,6 @@ permalink: /key-focus-areas/vision/
 ![Sustainable Dessvelopment](/images/idd03.PNG)
 ![Sustainable Dessvelopment](/images/idd05.PNG)
 
-
-Related Content 
+**Sustainable Development – A Core Belief**
+**Related Content** 
 
