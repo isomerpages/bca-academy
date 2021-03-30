@@ -12,7 +12,6 @@ sections:
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
-        <img src="/images/sgplogo.png">
     - infobar:
         title: BE Knowledge Hub
         subtitle: 
