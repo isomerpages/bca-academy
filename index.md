@@ -18,7 +18,6 @@ sections:
         description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
     - infobar:
         title: 
-        subtitle: Our Partners
         description: The world is integrated + interlinked. This calls for a collective collaboration amongst industry stakeholders to achieve common goals. </p><img class="mse-infopic-media-left" src="/images/partner1.PNG" alt="partner" /><p class="mse-none">
     - infopic:
         title: All of us live, work + play within the Built Environment
