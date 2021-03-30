@@ -23,10 +23,10 @@ sections:
         alt: Why Green Plan
     - infopic:
         title: What Are The BE Transformation Targets?
-        description: </p><p><ul><li>- Integrated Digital Delivery (ISS) up to 60 projects by 2020</li><li>- Quadruple solar energy deployment by 2025</li><li>- Reduce the waste sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul></p><img class="mse-infopic-media-left" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
+        description: </p><p><ul><li>- Integrated Digital Delivery (ISS) up to 60 projects by 2020</li><li>- Quadruple solar energy deployment by 2025</li><li>- Reduce the waste sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul>
         button: View more
         url: /key-focus-areas/our-targets/
-        image: /images/index/impacts-of-climate-change.jpg
+        image: /images/cover2.PNG
         alt: Impact
     - carousel:
         - title: 
