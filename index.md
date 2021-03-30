@@ -1,57 +1,68 @@
 ---
 layout: homepage
-title: Home - MSE
-description: Ministry of Sustainability and the Environment — providing Singapore with a clean and sustainable environment with resilient supplies of safe food and water
-image: /images/thumbnail.png
-notification: <p><a href="/cos/"><b>Click here</b></a> to access MSE Committee of Supply 2021 materials</p>
+title: BE Knowldege Hub
+description: Brief site description here
+image: /images/isomer-logo.svg
 permalink: /
+notification: click here to login to eLearn
 sections:
     - hero:
-        background: 
-        # images/banner.png
-        # video: /images/pexel.mp4
-        title: <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;600&display=swap" rel="stylesheet"><h1 style="font-family:'Cabin','Lato'; font-weight:600; color:white;text-align:right;font-size:0.8em;line-height:1.1em; text-shadow:black 0px 0px 3px;">Sustainable.<br> Resource-efficient.<br>Climate-resilient.</h1><meta property="og:image" content="/images/thumbnail.jpg">
-        subtitle:   <video autoplay muted playsinline loop poster="images/banner.png" id="bannerVideo"><source src="/images/banner-video.mp4" type="video/webm"></video>
-#   <source src="polina.mp4" type="video/mp4"> add another backup video in mp4
+        title: Build what's nExt
+        subtitle: 
+        background: /images/hero-banner.png
+        button: Contact Us
+        url: /contact-us/
     - infobar:
-        title: 
-        # subtitle: What we are doing about climate change?
-        description: <b><h6 style="font-family:'Cabin'">INTRODUCING<br></h6></b><a href="https://www.greenplan.gov.sg/"><img src="/images/sgplogo.png"></a><br><a class="button_sgp30" href="https://www.greenplan.gov.sg/">Learn More</a>
-    #     # button: Learn more
-    #     # url: https://climategamechanger.sg/
-    #     alt: SGP30
+        title: BE Knowledge Hub
+        subtitle: 
+        description: Your resource portal for the Built Environment (BE)
+        button: Button text
+        url: /faq/
     - infobar:
-        title: <h2 style="font-family:'Cabin'">We are committed to providing a clean and sustainable environment, with resilient supplies of safe food and water for Singapore.</h2>
-        description:  
+        title: BE Knowledge Hub
+        subtitle: 
+        description: Your resource portal for the Built Environment (BE)
+        button: Button text
+        url: /faq/
     - infopic:
-        title: <h2 style="font-family:'Cabin'">Climate Action Plan</h2>
-        # subtitle: What we are doing about climate change?
-        description: Find out <a id="homehoverlink1" href="https://www.mse.gov.sg/policies/climate-change/climategamechanger">what we are doing</a> to strengthen our climate change resilience and transition to a low-carbon future.
-        # button: Learn more
-        # url: https://climategamechanger.sg/
-        image: /images/infopic-1.svg
-        alt: Game changing climate change
+        title: What Does The Green Plan Seek To Achieve?
+        description: </p><p>The Green Plan charts ambitious and concrete targets over the next 10 years, strengthening Singapore’s commitments under the UN’s 2030 Sustainable Development Agenda and Paris Agreement, and positioning us to achieve our long-term net zero emissions aspiration as soon as viable.</p><img class="mse-infopic-media-left" src="/images/index/why-sgp30.jpg" alt="Why Green Plan" /><p class="mse-none">
+        image: /images/index/why-sgp30.jpg
+        alt: Why Green Plan
     - infopic:
-        title: <h2 style="font-family:'Cabin'">Zero Waste Masterplan</h2>
-        # subtitle: What can you do?
-        description: Our <a id="homehoverlink2" href="https://www.towardszerowaste.gov.sg/">Zero Waste Masterplan</a> maps out key strategies including adopting a circular economy approach to waste and resource management and more. 
-        # url: /take-action/individuals
-        image: /images/infopic-2.svg
-        alt: Zero Waste Masterplan
-    - infopic:
-        title: <h2 style="font-family:'Cabin'">Sustainability is for Everyone</h2>
-        # subtitle: What can you do?
-        description: There is a role for everyone to play. We must work together so that future generations will continue to enjoy the green and liveable island we call home.
-        button: Get Involved
-        url: /take-action/individuals
-        image: /images/infopic-3.svg
-        alt: Members of the Ministry of ABC in suits
-    - infobar:
-        title: <h2 style="font-family:'Cabin'">Want to find out more?</h2>
-        description: Our work is wide-ranging and touches many aspects of our lives. <br>Learn how our policies tackle these issues.
-        url: /policies/overview/
-        button: View Our Policies
+        title: What Are The Green Plan’s Key Targets?
+        description: </p><p><ul><li>- Plant 1 million more trees</li><li>- Quadruple solar energy deployment by 2025</li><li>- Reduce the waste sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul></p><img class="mse-infopic-media-left" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
+        button: View more
+        url: /key-focus-areas/our-targets/
+        image: /images/index/impacts-of-climate-change.jpg
+        alt: Impact
+    - carousel:
+        - title: 
+          subtitle:
+          description: CITM envisions an advanced and integrated BE sector with adoption of leading technologies, led by progressive and collaborative firms; and supported by a skilled and competent workforce
+          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
+          image: /images/citm01.PNG  
+          alt: Salvo1
+        - title: IDD/BIM
+          subtitle: CITM
+          description: Building Information Modelling (BIM) is identified as a key technology to improve productivity & level of integration across various disciplines across the entire construction value chain. Adoption of BIM is key to the success of Integrated Digital Delivery (IDD).
+          url: hhttps://www.instagram.com/tpsalvo/
+          image: /images/citm02.PNG
+          alt: Salvo2
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Choreographed Synchonised Movements
+          url: https://www.instagram.com/tpsalvo/
+          image: /images/citm03.PNG
+          alt: Salvo3
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Choreographed Synchonised Movements
+          url: https://www.instagram.com/tpsalvo/
+          image: /images/citm04.PNG
+          alt: Salvo3
     - resources:
-        subtitle: <h2 style="font-family:'Cabin'">Latest News</h2>
-        button: News Catalogue
+        title: Media
+        subtitle: Learn more
+        button: View More
 ---
