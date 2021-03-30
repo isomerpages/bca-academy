@@ -23,7 +23,7 @@ sections:
         alt: Why Green Plan
     - infopic:
         title: What Are The BE Transformation Targets?
-        description: </p><p><ul><li>- Integrated Digital Delivery (IDD) up to 60 projects by 2020</li><li>- DfMA adoption to 40% by 2020</li><li>- Green 80% of building by 2030 </li><li>By 2025, skills-training for:</li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul>
+        description: </p><p><ul><li>- Integrated Digital Delivery (IDD) up to 60 projects by 2020</li><li>- DfMA adoption to 40% by 2020</li><li>- Green 80% of building by 2030 </li><li> </li><li>By 2025, skills-training for:</li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul>
         button: View more
         url: /key-focus-areas/our-targets/
         image: /images/cover2.PNG
