@@ -21,8 +21,8 @@ sections:
     - infobar:
         title: 
         subtitle: Our Partners
-        description: Your resource portal for the Built Environment (BE)
-        button: Button text
+        description: The world has become more integrated and interlinked. This calls for more collective collaboration amongst the industry stakeholders to achieve common goals. 
+        button: text
         url: /faq/
     - infopic:
         title: What Does The Green Plan Seek To Achieve?
