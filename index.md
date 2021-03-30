@@ -18,6 +18,13 @@ sections:
         description: Your resource portal for the Built Environment (BE)
         button: Button text
         url: /faq/
+    - infopic:
+        title: What Are The Green Plan’s Key Targets?
+        description: </p><p><ul><li>- Plant 1 million more trees</li><li>- Quadruple solar energy deployment by 2025</li><li>- Reduce the waste sent to landfill by 30% by 2030 </li><li>- At least 20% of schools to be carbon neutral by 2030</li><li>- All newly registered cars to be cleaner-energy models from 2030</li></ul></p><img class="mse-infopic-media-left" src="/images/index/impacts-of-climate-change.jpg" alt="Impact" /><p class="mse-none">
+        button: View more
+        url: /key-focus-areas/our-targets/
+        image: /images/index/impacts-of-climate-change.jpg
+        alt: Impact
     - carousel:
         - title: 
           subtitle:
