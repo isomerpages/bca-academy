@@ -11,9 +11,13 @@ sections:
         subtitle: 
         background: /images/hero-banner.png
         button: Contact Us
-        url: /index2/
+        url: /contact-us/
     - infobar:
         title: BE Knowledge Hub
+        subtitle: 
+        description: Your resource portal for the Built Environment (BE)
+    - infobar:
+        title: BE Knowledge Hubesfee
         subtitle: 
         description: Your resource portal for the Built Environment (BE)
     - infobar:
