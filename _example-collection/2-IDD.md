@@ -4,12 +4,12 @@ description:
 permalink: /key-focus-areas/vision/
 ---
 
-**Sustainable Development – A Core Belief**
 
-<iframe width="930" height="523" src="https://www.youtube.com/embed/04EunnNFfRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="730" height="523" src="https://www.youtube.com/embed/04EunnNFfRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Over the years, Singapore has spared no effort in our mission for sustainable development. 
+### Integrated Digital Delivery (IDD) streamlines work processes and connects stakeholders through digital data, innovation and technology across the whole project life cycle from design, construction, fabrication, to facilities management to deliver a better outcome for end users
+ 
 
 ![Sustainable Development](/images/framework/manifesto_sustainabledevelopment.jpg)
 
