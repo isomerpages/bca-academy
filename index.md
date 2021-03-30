@@ -16,7 +16,7 @@ sections:
         title: BE Knowledge Hub
         subtitle: 
         description: Your resource portal for the Built Environment (BE)
-        image: /images/index/impacts-of-climate-change.jpg
+        image: /images/citm01.PNG
         alt: Impact
     - infobar:
         title: BE Knowledge Hub
