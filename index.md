@@ -35,9 +35,14 @@ sections:
           subtitle: Featured CCA
           description: Choreographed Synchonised Movements
           url: https://www.instagram.com/tpsalvo/
-          image: /images/Salvo3.jpg
+          image: /images/citm03.PNG
           alt: Salvo3
-          
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Choreographed Synchonised Movements
+          url: https://www.instagram.com/tpsalvo/
+          image: /images/citm04.PNG
+          alt: Salvo3
     - resources:
         title: Media
         subtitle: Learn more
