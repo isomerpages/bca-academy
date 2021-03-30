@@ -6,15 +6,12 @@
 
 logo: /images/isomer-logo.svg
 
-- title: Who We Are
-  url: /who-we-are/overview/
-  sub-links:
-  - title: Overview
-    url: /who-we-are/overview/
-  - title: Example Single Page
-    url: /example-single-page/
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Example Page
+    url: /example-page/
   - title: Example Collection
     collection: example-collection
-  - title: Example Resource Room
+  - title: Example Resource
     resource_room: true
-  - title: Contact Us
