@@ -7,7 +7,7 @@ permalink: /
 notification: click here to login to eLearn
 sections:
     - hero:
-        title: Build what's nExt
+        title: Build what's nExtS
         subtitle: 
         background: /images/hero-banner.png
     - infobar:
