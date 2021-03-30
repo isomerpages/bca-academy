@@ -21,7 +21,7 @@ sections:
     - infobar:
         title: 
         subtitle: Our Partners
-        description: The world has become more integrated and interlinked. This calls for more collective collaboration amongst the industry stakeholders to achieve common goals. 
+        description: The world is integrated + interlinked. This calls for a collective collaboration amongst industry stakeholders to achieve common goals. 
         button: text
         url: /faq/
     - infopic:
