@@ -13,3 +13,4 @@ permalink: /key-focus-areas/green-government/
 ![City in Nature](/images/framework/framework_cityinnature.jpg)
 
 ![City in Nature](/images/citm06.PNG)
+![City in Neature](/images/citm01.PNG)
