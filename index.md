@@ -52,8 +52,8 @@ sections:
           description: Choreographed Synchonised Movements
           url: https://www.instagram.com/tpsalvo/
           image: /images/citm04.PNG
-          alt: Salvo3  
-       - resources:
+          alt: Salvo3
+    - resources:
         title: Media
         subtitle: Learn more
         button: View More
