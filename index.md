@@ -19,9 +19,9 @@ sections:
         image: /images/citm01.PNG
         alt: Impact
     - infobar:
-        title: 
+        title: ...
         subtitle: Our Partners
-        description: Your resource portal for the Built Environment (BE)
+        description: Our Partners
         button: Button text
         url: /faq/
     - infopic:
