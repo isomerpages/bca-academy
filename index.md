@@ -13,7 +13,7 @@ sections:
         button: Contact Us
         url: /contact-us/
     - infobar:
-        title: BE Knowledge Hub
+        title: 
         subtitle: 
         description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
     - infobar:
