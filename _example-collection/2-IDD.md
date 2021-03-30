@@ -7,7 +7,9 @@ permalink: /key-focus-areas/vision/
 
 <iframe width="780" height="523" src="https://www.youtube.com/embed/04EunnNFfRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;<video width="800" height="550" controls="true" loop="true" muted="true" autoplay="true"><source src="https://www.youtube.com/watch?v=04EunnNFfRg&amp;feature=emb_title">https://www.youtube.com/watch?v=04EunnNFfRg&amp;feature=emb_title</video>&nbsp;&nbsp;&nbsp;</p>
+</p><p>The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation movement to advance Singapore’s national agenda on sustainable development.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/oNFeOl7pW9s?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
+	
+	
 
 ### Integrated Digital Delivery (IDD) streamlines work processes and connects stakeholders through digital data, innovation and technology across the whole project life cycle from design, construction, fabrication, to facilities management to deliver a better outcome for end users
  
