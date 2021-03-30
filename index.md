@@ -15,7 +15,7 @@ sections:
     - infobar:
         title: BE Knowledge Hub
         subtitle: 
-        description: Your resource portal for the Built Environment (BE)<br> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
+        description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
     - infobar:
         title: 
         subtitle: Our Partners
