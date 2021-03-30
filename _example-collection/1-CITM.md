@@ -8,7 +8,7 @@ permalink: /key-focus-areas/vision/
 
 ![Sustainable Development](/images/c01.PNG)
 
-![Sustainable Development](/images/c01.PNG)
+![Sustainable Development](/images/c02.PNG)
 
 Climate change is an existential threat of our times. It has brought rising sea levels and extreme weather patterns. Around the world, millions of lives and livelihoods are in danger. Singapore, as a low-lying island state, is particularly vulnerable.
 
