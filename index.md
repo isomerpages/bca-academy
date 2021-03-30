@@ -11,7 +11,7 @@ sections:
         subtitle: 
         background: /images/hero-banner.png
         button: Contact Us
-        url: /contact-us/
+        url: /index2/
     - infobar:
         title: BE Knowledge Hub
         subtitle: 
