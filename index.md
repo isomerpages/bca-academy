@@ -10,6 +10,10 @@ sections:
         title: Build what's nExt
         subtitle: 
         background: /images/hero-banner.png
+    - hero:
+        title: Build what's nExt
+        subtitle: 
+        background: /images/hero-banner.png
     - infobar:
         subtitle: INTRODUCING
         description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
