@@ -53,11 +53,7 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/citm04.PNG
           alt: Salvo3  
-       - hero:
-        title: Build what's nExt
-        subtitle: 
-        background: /images/hero-banner.png       
-      - resources:
+       - resources:
         title: Media
         subtitle: Learn more
         button: View More
