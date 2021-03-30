@@ -58,6 +58,7 @@ sections:
         subtitle: Learn more
         button: View More
     - infobar:
+        title: BE. Skilled
         subtitle: Our Partners
-        description: </p><img class="mse-infopic-media-left" src="/images/partner2.PNG" alt="partner" /><p class="mse-none">
+        description: </p><img class="mse-infopic-media-left" src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
 ---
