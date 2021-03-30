@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: BE Knowldege Hub
+title: BE Knowledge Hub
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
