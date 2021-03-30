@@ -8,6 +8,9 @@ permalink: /key-focus-areas/vision/
 
 <iframe width="930" height="523" src="https://www.youtube.com/embed/04EunnNFfRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Over the years, Singapore has spared no effort in our mission for sustainable development. 
+
 ![Sustainable Development](/images/framework/manifesto_sustainabledevelopment.jpg)
 
 Climate change is an existential threat of our times. It has brought rising sea levels and extreme weather patterns. Around the world, millions of lives and livelihoods are in danger. Singapore, as a low-lying island state, is particularly vulnerable.
