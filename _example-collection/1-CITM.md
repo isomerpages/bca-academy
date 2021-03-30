@@ -1,5 +1,5 @@
 ---
-title: Our Vision
+title: Construction Industry Transformation Map
 description:  
 permalink: /key-focus-areas/vision/
 ---
