@@ -12,12 +12,12 @@ As an integrated design, documentation and construction tool, the strategic impl
 ![Sustainable Dessvelopment](/images/bim01.PNG)
 
 #### BIM Dimensions
+Linking extra 'dimensions' of data to your information models has the potential to give you a richer understanding of your construction project - how it will be delivered, what it will cost and how it should be maintained. 
 ![Sustainable Dessvelopment](/images/bim045.PNG)
 ![Sustainablt](/images/white.PNG)	
 
 #### How does BIM optimise each phase of the construction process?
 
-![Sustainable Dessvelopment](/images/bim04.PNG)
 <div style="background-color:#e8e8e8;">
 <em><p>BIM can be implemented in different ways throughout a project’s life cycle:</p></em>
 <ul>
@@ -27,10 +27,7 @@ As an integrated design, documentation and construction tool, the strategic impl
 </ul>
 </div>
 
-
-
-
-
+![Sustainable Dessvelopment](/images/bim04.PNG)
 
 
 
