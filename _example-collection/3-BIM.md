@@ -11,7 +11,15 @@ permalink: /key-focus-areas/vision3/
 ![Sustainablt](/images/white.PNG)
 	
 	
-iframe title="NBIM ENGENHARIA" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/91e6b58fdd7a4557a3c7c3ebcce29e85/embed"></iframe>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="NBIM ENGENHARIA" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/91e6b58fdd7a4557a3c7c3ebcce29e85/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/nbim-engenharia-91e6b58fdd7a4557a3c7c3ebcce29e85?utm_medium=embed&utm_campaign=share-popup&utm_content=91e6b58fdd7a4557a3c7c3ebcce29e85" target="_blank" style="font-weight: bold; color: #1CAAD9;">NBIM ENGENHARIA</a>
+        by <a href="https://sketchfab.com/NBIMEngenharia?utm_medium=embed&utm_campaign=share-popup&utm_content=91e6b58fdd7a4557a3c7c3ebcce29e85" target="_blank" style="font-weight: bold; color: #1CAAD9;">NBIMEngenharia</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=91e6b58fdd7a4557a3c7c3ebcce29e85" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
 
 ![Sustainable Dessvelopment](/images/idd01.PNG)
 ![Sustainable Dessvelopment](/images/idd02.PNG)
