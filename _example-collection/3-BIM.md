@@ -10,8 +10,8 @@ As an integrated design, documentation and construction tool, the strategic impl
 	
 ![Sustainable Dessvelopment](/images/bim02a.PNG)
 ![Sustainable Dessvelopment](/images/bim01.PNG)
-![Sustainable Dessvelopment](/images/idd03.PNG)
-![Sustainable Dessvelopment](/images/idd04.PNG)
+![Sustainable Dessvelopment](/images/bim04.PNG)
+![Sustainable Dessvelopment](/images/bim045.PNG)
 ![Sustainable Dessvelopment](/images/idd06.PNG)
 ![Sustainable Dessvelopment](/images/idd05.PNG)
 
