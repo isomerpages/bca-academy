@@ -8,8 +8,8 @@ permalink: /key-focus-areas/vision3/
 ![Sustainablt](/images/white.PNG)	
 As an integrated design, documentation and construction tool, the strategic implementation of BIM in building projects enhances communication & multi-disciplinary collaboration among the various project stakeholders. This significantly improves the design, construction & operation processes with productivity gains & returns.
 	
+![Sustainable Dessvelopment](/images/bim02a.PNG)
 ![Sustainable Dessvelopment](/images/bim01.PNG)
-![Sustainable Dessvelopment](/images/bim02.PNG)
 ![Sustainable Dessvelopment](/images/idd03.PNG)
 ![Sustainable Dessvelopment](/images/idd04.PNG)
 ![Sustainable Dessvelopment](/images/idd06.PNG)
