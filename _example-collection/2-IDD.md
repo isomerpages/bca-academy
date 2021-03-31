@@ -12,9 +12,9 @@ permalink: /key-focus-areas/vision/
 	
 	
 
-![Sustainable Dessvelopment](/images/idd01.PNG)
-![Sustainable Dessvelopment](/images/idd02.PNG)
-![Sustainable Dessvelopment](/images/idd03.PNG)
+![Sustainable Dessvelopment](/images/idd07.PNG)
+![Sustainable Dessvelopment](/images/idd08.PNG)
+![Sustainable Dessvelopment](/images/idd09.PNG)
 ![Sustainable Dessvelopment](/images/idd04.PNG)
 
 ![Sustainable Dessvelopment](/images/idd06.PNG)
