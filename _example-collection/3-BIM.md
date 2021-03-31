@@ -3,7 +3,7 @@ title: Building Information Modelling (BIM)
 description:  
 permalink: /key-focus-areas/vision3/
 ---
-### Integrated Digital Delivery (IDD) streamlines work processes and connects stakeholders through digital data, innovation and technology across the whole project life cycle from design, construction, fabrication, to facilities management to deliver a better outcome for end users
+### Building Information Modelling (BIM) has become a crucial tool to help building professionals improve their effectiveness & efficiency as building projects are becoming complex. As an integrated design, documentation and construction tool, the strategic implementation of BIM in building projects enhances communication & multi-disciplinary collaboration among the various project stakeholders. This significantly improves the design, construction & operation processes with productivity gains & returns.
 ![Sustainablt](/images/white.PNG)
 <iframe width="750" height="455" src="https://www.youtube.com/embed/db_whEFesZo?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
