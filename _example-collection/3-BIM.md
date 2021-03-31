@@ -26,6 +26,7 @@ As an integrated design, documentation and construction tool, the strategic impl
 ![Sustainable Dessvelopment](/images/bim04.PNG)
 ![Sustainablt](/images/white.PNG)	
 
+#### BIM Dimensions
 **BIM Dimensions**
 
 ![Sustainable Dessvelopment](/images/bim045.PNG)
