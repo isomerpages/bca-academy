@@ -11,6 +11,10 @@ As an integrated design, documentation and construction tool, the strategic impl
 ![Sustainable Dessvelopment](/images/bim02a.PNG)
 ![Sustainable Dessvelopment](/images/bim01.PNG)
 
+#### BIM Dimensions
+![Sustainable Dessvelopment](/images/bim045.PNG)
+![Sustainablt](/images/white.PNG)	
+
 #### How does BIM optimise each phase of the construction process?
 
 ![Sustainable Dessvelopment](/images/bim04.PNG)
@@ -24,12 +28,8 @@ As an integrated design, documentation and construction tool, the strategic impl
 </div>
 
 
-![Sustainablt](/images/white.PNG)	
 
-#### BIM Dimensions
-**BIM Dimensions**
 
-![Sustainable Dessvelopment](/images/bim045.PNG)
 
 
 
