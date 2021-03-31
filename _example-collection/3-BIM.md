@@ -13,12 +13,17 @@ As an integrated design, documentation and construction tool, the strategic impl
 
 
 **How does BIM optimise each phase of the construction process?**
+
 BIM can be implemented in different ways throughout a project’s life cycle:
 
-- Increase rail network to 360km by early 2030s.
-Design and planning. It is a very useful tool for simulation, prototyping and analysis, and it also allows for the inclusion of data from laser scanners. It works as a data repository for the optimised design and performance analytics.
+- Design and planning: It is a very useful tool for simulation, prototyping and analysis, and it also allows for the inclusion of data from laser scanners. It works as a data repository for the optimised design and performance analytics.
+- Construction phase: It collaborates in the exchange of information with project management tools, in the monitoring of construction work, and in the coordination with suppliers, among other aspects.
+- Operations and maintenance: This methodology is very practical for deliveries and orders, as a data repository for service management systems, for predictive maintenance and for the renovation and termination of works.
 
 ![Sustainable Dessvelopment](/images/bim04.PNG)
+
+**BIM Dimensions**
+
 ![Sustainable Dessvelopment](/images/bim045.PNG)
 
 
