@@ -13,6 +13,7 @@ As an integrated design, documentation and construction tool, the strategic impl
 
 #### How does BIM optimise each phase of the construction process?
 
+![Sustainable Dessvelopment](/images/bim04.PNG)
 <div style="background-color:#e8e8e8;">
 <em><p>BIM can be implemented in different ways throughout a project’s life cycle:</p></em>
 <ul>
@@ -23,7 +24,6 @@ As an integrated design, documentation and construction tool, the strategic impl
 </div>
 
 
-![Sustainable Dessvelopment](/images/bim04.PNG)
 ![Sustainablt](/images/white.PNG)	
 
 #### BIM Dimensions
