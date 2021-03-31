@@ -20,8 +20,7 @@ Design and planning. It is a very useful tool for simulation, prototyping and an
 
 ![Sustainable Dessvelopment](/images/bim04.PNG)
 ![Sustainable Dessvelopment](/images/bim045.PNG)
-![Sustainable Dessvelopment](/images/idd06.PNG)
-![Sustainable Dessvelopment](/images/idd05.PNG)
+
 
 
 
