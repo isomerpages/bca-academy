@@ -1,5 +1,5 @@
 ---
-title: Design for Manufacturing and Assembly (DfMA)
+title: Green Building + Sustainability
 description:  
 permalink: /key-focus-areas/vision/
 ---
