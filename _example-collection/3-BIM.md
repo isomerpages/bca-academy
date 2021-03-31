@@ -10,6 +10,9 @@ permalink: /key-focus-areas/vision3/
 	
 	
 	
+<iframe title="NBIM ENGENHARIA" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/91e6b58fdd7a4557a3c7c3ebcce29e85/embed?autostart=1">
+</iframe>
+  
 
 <iframe src="https://sketchfab.com/models/91e6b58fdd7a4557a3c7c3ebcce29e85"></iframe>
 
