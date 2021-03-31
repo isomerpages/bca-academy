@@ -12,6 +12,9 @@ Singapore is a highly urbanised island state, with buildings accounting for over
 While considerable progress has been made, we can set our sets higher amidst the global call for greater ambition and Singapore’s raised commitments under the Long-term Emissions Development Strategy (LEDS) for 2050. In the next wave of Singapore’s Green Building movement, the sector will push the boundaries for best-in-class energy performance and cost-effective Super Low Energy (SLE) buildings.
 
 
+![Sustainable Dessvelopment](/images/gr02.PNG)
+
+
 <iframe src="https://www.facebook.com/watch/?v=822709384858515"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBCASingapore%2Fvideos%2F822709384858515%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
@@ -34,7 +37,7 @@ While considerable progress has been made, we can set our sets higher amidst the
 
 
 
-![Sustainable Dessvelopment](/images/idd02.PNG)
+
 ![Sustainable Dessvelopment](/images/idd03.PNG)
 ![Sustainable Dessvelopment](/images/idd04.PNG)
 ![Sustainable Dessvelopment](/images/idd06.PNG)
