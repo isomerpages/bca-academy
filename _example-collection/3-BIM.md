@@ -9,15 +9,8 @@ permalink: /key-focus-areas/vision3/
 <iframe width="750" height="455" src="https://www.youtube.com/embed/db_whEFesZo?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 	
-	
-<iframe title="NBIM ENGENHARIA" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/91e6b58fdd7a4557a3c7c3ebcce29e85/embed?autostart=1">
-</iframe>
-  
-
-<iframe src="https://sketchfab.com/models/91e6b58fdd7a4557a3c7c3ebcce29e85"></iframe>
-
-![Sustainable Dessvelopment](/images/idd01.PNG)
-![Sustainable Dessvelopment](/images/idd02.PNG)
+![Sustainable Dessvelopment](/images/bim01.PNG)
+![Sustainable Dessvelopment](/images/bim02.PNG)
 ![Sustainable Dessvelopment](/images/idd03.PNG)
 ![Sustainable Dessvelopment](/images/idd04.PNG)
 ![Sustainable Dessvelopment](/images/idd06.PNG)
