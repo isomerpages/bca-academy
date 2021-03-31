@@ -4,7 +4,7 @@ description:
 permalink: /key-focus-areas/vision3/
 ---
 ### Building Information Modelling (BIM) has become a crucial tool to help building professionals improve their effectiveness & efficiency as building projects are becoming complex. 
-<iframe width="750" height="455" src="https://www.youtube.com/embed/db_whEFesZo?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="530" src="https://www.youtube.com/embed/db_whEFesZo?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Sustainablt](/images/white.PNG)	
 As an integrated design, documentation and construction tool, the strategic implementation of BIM in building projects enhances communication & multi-disciplinary collaboration among the various project stakeholders. This significantly improves the design, construction & operation processes with productivity gains & returns.
 	
