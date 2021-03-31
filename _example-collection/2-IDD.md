@@ -7,6 +7,7 @@ permalink: /key-focus-areas/vision/
 
 
 
+
 <iframe width="660" height="415" src="https://www.youtube.com/embed/04EunnNFfRg?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 	
