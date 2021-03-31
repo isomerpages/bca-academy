@@ -11,6 +11,20 @@ As an integrated design, documentation and construction tool, the strategic impl
 ![Sustainable Dessvelopment](/images/bim02a.PNG)
 ![Sustainable Dessvelopment](/images/bim01.PNG)
 
+#### How does BIM optimise each phase of the construction process?
+
+<div style="background-color:#e8e8e8;">
+<em><p>BIM can be implemented in different ways throughout a project’s life cycle:</p></em>
+<ul>
+  <li>Design and planning: It is a very useful tool for simulation, prototyping and analysis, and it also allows for the inclusion of data from laser scanners. It works as a data repository for the optimised design and performance analytics.</li>
+  <li>Construction phase: It collaborates in the exchange of information with project management tools, in the monitoring of construction work, and in the coordination with suppliers, among other aspects</li>
+  <li>Operations and maintenance: This methodology is very practical for deliveries and orders, as a data repository for service management systems, for predictive maintenance and for the renovation and termination of works.</li>
+  <li>8 EV-Ready Towns with chargers at all HDB carparks by 2025</li>
+  <li>All new car and taxi registrations to be of cleaner-energy models from 2030</li>
+  <li>60,000 charging points nationwide, including 40,000 in public carparks and 20,000 in private premises by 2030</li>
+</ul>
+</div>
+
 
 **How does BIM optimise each phase of the construction process?**
 
@@ -28,19 +42,7 @@ BIM can be implemented in different ways throughout a project’s life cycle:
 ![Sustainable Dessvelopment](/images/bim045.PNG)
 
 
-#### How does BIM optimise each phase of the construction process?
 
-<div style="background-color:#b2d4ce;">
-<em><p>BIM can be implemented in different ways throughout a project’s life cycle:</p></em>
-<ul>
-  <li>Develop over 130 ha of new parks, and enhance around 170 ha of existing parks with more lush vegetation and natural landscapes by end-2026.</li>
-  <li>"80-80-80 by 2030" - Green 80% of all buildings</li>
-  <li>New registrations of diesel cars and taxis to cease from 2025</li>
-  <li>8 EV-Ready Towns with chargers at all HDB carparks by 2025</li>
-  <li>All new car and taxi registrations to be of cleaner-energy models from 2030</li>
-  <li>60,000 charging points nationwide, including 40,000 in public carparks and 20,000 in private premises by 2030</li>
-</ul>
-</div>
 
 
 
