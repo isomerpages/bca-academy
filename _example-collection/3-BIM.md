@@ -21,6 +21,7 @@ BIM can be implemented in different ways throughout a project’s life cycle:
 - Operations and maintenance: This methodology is very practical for deliveries and orders, as a data repository for service management systems, for predictive maintenance and for the renovation and termination of works.
 
 ![Sustainable Dessvelopment](/images/bim04.PNG)
+![Sustainablt](/images/white.PNG)	
 
 **BIM Dimensions**
 
