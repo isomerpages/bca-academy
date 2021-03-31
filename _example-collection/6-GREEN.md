@@ -1,7 +1,7 @@
 ---
 title: Green Building + Sustainability
 description:  
-permalink: /key-focus-areas/vision/
+permalink: /key-focus-areas/vision6/
 ---
 ### Integrated green buildings strategies in building a greener and more environmentally sustainable Singapore for all. 
 
