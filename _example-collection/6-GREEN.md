@@ -3,7 +3,7 @@ title: Green Building + Sustainability
 description:  
 permalink: /key-focus-areas/vision6/
 ---
-### Integrated green buildings strategies in building a greener and more environmentally sustainable Singapore for all. Green buildings is an important part of our climate change mitigation strategy, and this is why it is important for the built environment to be designed, constructed and operated as green and sustainably as possible. In 2009, Singapore’s Inter-Ministerial Committee on Sustainable Development (IMCSD) set a target to green at least 80% of the buildings’ gross floor area (GFA) in Singapore by 2030.
+### Integrated green buildings strategies in building a greener and more environmentally sustainable Singapore for all. Green buildings is an important part of our climate change mitigation strategy, and this is why it is important for the built environment to be designed, constructed and operated as green and sustainably as possible.
 
 ![Sustainable Desrsvelopment](/images/gr01.PNG)
 
