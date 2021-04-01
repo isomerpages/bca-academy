@@ -11,6 +11,12 @@ Singapore is a highly urbanised island state, with buildings accounting for over
 
 While considerable progress has been made, we can set our sets higher amidst the global call for greater ambition and Singapore’s raised commitments under the Long-term Emissions Development Strategy (LEDS) for 2050. In the next wave of Singapore’s Green Building movement, the sector will push the boundaries for best-in-class energy performance and cost-effective Super Low Energy (SLE) buildings.
 
+<blockquote>
+  <p>Today, Singapore is a City in a Garden, and is  one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>
+  <span class="author">Desmond Lee, Minister for National Development</span>
+</blockquote>
+
+
 
 ![Sustainable Dessvelopment](/images/gr03.PNG)
 
