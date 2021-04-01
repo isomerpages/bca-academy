@@ -7,13 +7,13 @@ permalink: /key-focus-areas/vision6/
 
 ![Sustainable Desrsvelopment](/images/gr01.PNG)
 
-Singapore is a highly urbanised island state, with buildings accounting for over 20% of Singapore’s emissions. Hence, this is an important aspect of our transformation--to remake our city to meet the challenges of climate change. In 2009, Singapore’s Inter-Ministerial Committee on Sustainable Development (IMCSD) set a target to green at least 80% of the buildings’ gross floor area (GFA) in Singapore by 2030.
+Singapore is a highly urbanised island state, with buildings accounting for over 30% of Singapore’s emissions. This is an important aspect of our transformation--to remake our city to meet the challenges of climate change. In 2009, Singapore’s Inter-Ministerial Committee on Sustainable Development (IMCSD) set a target to green at least 80% of the buildings’ gross floor area (GFA) in Singapore by 2030.
 
 While considerable progress has been made, we can set our sets higher amidst the global call for greater ambition and Singapore’s raised commitments under the Long-term Emissions Development Strategy (LEDS) for 2050. In the next wave of Singapore’s Green Building movement, the sector will push the boundaries for best-in-class energy performance and cost-effective Super Low Energy (SLE) buildings.
 
 <blockquote>
-  <p>Today, Singapore is a City in a Garden, and is  one of the greenest cities in the world. We set aside large nature reserves, with about a third of our island covered by trees.</p>
-  <span class="author">Desmond Lee, Minister for National Development</span>
+  <p>While considerable progress has been made, we can set our sets higher amidst the global call for greater ambition and Singapore’s raised commitments under the Long-term Emissions Development Strategy (LEDS) for 2050. In the next wave of Singapore’s Green Building movement, the sector will push the boundaries for best-in-class energy performance and cost-effective Super Low Energy (SLE) buildings.</p>
+  <span class="author"></span>
 </blockquote>
 
 
