@@ -3,9 +3,9 @@ title: Design for Manufacturing and Assembly (DfMA)
 description:  
 permalink: /key-focus-areas/vision5/
 ---
-### Design for Manufacturing and Assembly (DfMA) is a game-changing method of construction which involves construction being designed for manufacturing off-site in a controlled environment, before being assembled on-site. 
-
 ![DFMA](/images/dfma01.jpg)
+
+### Design for Manufacturing and Assembly (DfMA) is a game-changing method of construction which involves construction being designed for manufacturing off-site in a controlled environment, before being assembled on-site. 
 
 <blockquote>
   <p>The Government aims to make DfMA the default way of building. "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality" (Minister of State for National Development Zaqy Mohamad) </p>
