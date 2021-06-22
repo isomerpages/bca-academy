@@ -7,7 +7,8 @@ permalink: /key-focus-areas/vision5/
 
 <blockquote>
   <p>The Government aims to make DfMA the default way of building. "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality"</p>
-  <span class="Minister of State for National Development Zaqy Mohamad"></span>
+  <p>The Government aims to make DfMA the default way of building. "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality"</p>
+  <span class="author"></span>
 </blockquote>
 
 ![Sustainable Desrsvelopment](/images/dfma01.jpg)
