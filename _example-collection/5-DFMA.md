@@ -8,12 +8,10 @@ permalink: /key-focus-areas/vision5/
 ![Sustainable Desrsvelopment](/images/dfma01.jpg)
 
 <blockquote>
-  <p>The Government aims to make DfMA the default way of building. "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality"</p>
-  <p> - Minister of State for National Development Zaqy Mohamad</p>
+  <p>The Government aims to make DfMA the default way of building."We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality"</p>
   <span class="author"></span>
 </blockquote>
-
-
+- Minister of State for National Development Zaqy Mohamad
 
 #### Did you know that buildings account for over 20% of emissions in Singapore?
 
