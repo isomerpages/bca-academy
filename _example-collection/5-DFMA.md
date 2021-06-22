@@ -11,8 +11,11 @@ DfMA comprises a continuum of technologies and methodologies that promote offsit
 
 ![DFMA](/images/dfma02.jpg)
 
+
+#### The Government aims to make DfMA the default way of building.
+
 <blockquote>
-  <p>The Government aims to make DfMA the default way of building. "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality" (Minister of State for National Development Zaqy Mohamad) </p>
+  <p> "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality" (Minister of State for National Development Zaqy Mohamad) </p>
   <span class="author"></span>
 </blockquote>
 
