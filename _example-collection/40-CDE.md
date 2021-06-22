@@ -1,5 +1,5 @@
 ---
-title: Onboarding2
+title: CDE Data Standard
 permalink: /onboarding/onboarding/
 ---
 
