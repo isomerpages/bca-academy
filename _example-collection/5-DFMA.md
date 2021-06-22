@@ -5,24 +5,13 @@ permalink: /key-focus-areas/vision5/
 ---
 ### Design for Manufacturing and Assembly (DfMA) is a game-changing method of construction which involves construction being designed for manufacturing off-site in a controlled environment, before being assembled on-site. 
 
-<div style="background-color:#e8e8e8;">
-<em><p>The Government aims to make DfMA the default way of building. "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality"</p></em>
-<ul>
-  <li> Minister of State for National Development Zaqy Mohamad </li>
-  <li>Construction phase: It collaborates in the exchange of information with project management tools, in the monitoring of construction work, and in the coordination with suppliers, among other aspects</li>
-  <li>Operations and maintenance: This methodology is very practical for deliveries and orders, as a data repository for service management systems, for predictive maintenance and for the renovation and termination of works.</li>
-</ul>
-</div>
-
+![Sustainable Desrsvelopment](/images/dfma01.jpg)
 
 <blockquote>
   <p>The Government aims to make DfMA the default way of building. "We are fundamentally changing the way we build through DfMA. This way, construction becomes faster, cleaner, quieter and of high quality"</p>
   <p> - Minister of State for National Development Zaqy Mohamad</p>
   <span class="author"></span>
 </blockquote>
-
-![Sustainable Desrsvelopment](/images/dfma01.jpg)
-
 
 
 
