@@ -7,6 +7,12 @@ permalink: /key-focus-areas/vision5/
 
 ![Sustainable Desrsvelopment](/images/gr01.PNG)
 
+<blockquote>
+  <p>The DfMA approach is leading the transformation of the the Built Environment sector through leveraging advanced technology, improved quality and precision of construction while reducing the reliance on manpower and ultimately, higher productivity</p>
+  <span class="author"></span>
+</blockquote>
+
+
 #### Did you know that buildings account for over 20% of emissions in Singapore?
 
 Our buildings are an important part of Singapore’s climate change mitigation strategy and can directly contribute to more efficient energy use. This is why it is important for the built environment to be designed, constructed and operated as green and sustainably as possible.
