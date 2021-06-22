@@ -17,12 +17,14 @@ permalink: /key-focus-areas/vision5/
 </blockquote>
 
 
-#### DfMA comprises a continuum of technologies and methodologies that promote offsite fabrication. These technologies range from prefabricated components to fully integrated assemblies across the Structural, Architectural, and Mechanical, Electrical and Plumbing (MEP) disciplines. 
-
-#### Pushing for Higher-end DfMA Technologies 
 ![DFMA](/images/dfma03.jpg)
 
-
-
+<div style="background-color:#e8e8e8;">
+<em><p>Pushing for Higher-end DfMA Technologies:</p></em>
+<ul>
+  <li>DfMA comprises a continuum of technologies and methodologies that promote offsite fabrication </li>
+  <li>These technologies range from prefabricated components to fully integrated assemblies across the Structural, Architectural, and Mechanical, Electrical and Plumbing (MEP) disciplines.</li>
+</ul>
+</div>
 
 
