@@ -15,4 +15,6 @@ towards achieving a common set of goals, through systematically modelling what i
 </blockquote>
 
 
-![vdc](/images/vdc03.PNG)
+![vdc](/images/vdc06.PNG)
+![vdc](/images/vdc05.PNG)
+
