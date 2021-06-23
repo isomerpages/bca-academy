@@ -24,12 +24,13 @@ permalink: /key-focus-areas/vision/
 ![Sustainablt](/images/white.PNG)
 
 ---
+---
 
 **Related Content**
 
-#### Research, Innovation and Enterprise (RIE) 2025  
-We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others.  
-<a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+![DFMA](/images/idd20.jpg)
+<a href="https://www1.bca.gov.sg/buildsg-emag/articles?topic-tags=integrated-digital-delivery-(idd)" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-</a>
+
+	
