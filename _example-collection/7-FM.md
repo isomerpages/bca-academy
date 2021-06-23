@@ -10,7 +10,7 @@ permalink: /key-focus-areas/vision7/
   <p>The adoption of smart FM solutions, for example, remote monitoring, digitalised workflow automation, on-demand energy management, command-and-control security and resource deployment, multi-functional FM robotics, Building Information Modelling (BIM) for FM, digital twin simulation and modelling etc, can streamline work processes, drive behavioural change, enhance property asset values and improve the productivity and service delivery of facilities management over the life-cycle of buildings and even districts.</p>
   <span class="author"></span>
 </blockquote>
-
+![Sustainablt](/images/white.PNG)
 ![Sustainable Dessvelopment](/images/fm03.PNG)
 ![Sustainable Dessvelopment](/images/fm01.PNG)
 ![Sustainable Dessveplopment](/images/fm02.PNG)
