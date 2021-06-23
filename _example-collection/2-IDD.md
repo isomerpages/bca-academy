@@ -24,7 +24,6 @@ permalink: /key-focus-areas/vision/
 ![Sustainablt](/images/white.PNG)
 
 ---
----
 
 **Related Content**
 
@@ -33,4 +32,6 @@ permalink: /key-focus-areas/vision/
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 
+	
+	
 	
