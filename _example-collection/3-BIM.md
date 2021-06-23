@@ -30,14 +30,11 @@ Linking extra 'dimensions' of data to your information models has the potential 
 ![Sustainable Dessvelopment](/images/bim04.PNG)
 
 
-
-
+---
 
 **Related Content**
 
-#### Research, Innovation and Enterprise (RIE) 2025  
-We are promoting homegrown innovation under RIE 2025, and attracting companies to anchor their R&D activities in Singapore to develop new sustainability solutions such as carbon capture, utilisation and storage, low-carbon hydrogen, energy efficient materials, and solutions for the circular economy, amongst others.  
-<a href="https://www.nrf.gov.sg/about-nrf/rie-ecosystem" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+![green](/images/vdc07.png)
+<a href="https://www.corenet.gov.sg/media/2094675/singapore-vdc-guide_version1_oct2017.pdf" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
-</a>
