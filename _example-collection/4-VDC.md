@@ -14,7 +14,14 @@ towards achieving a common set of goals, through systematically modelling what i
   <span class="author"></span>
 </blockquote>
 
-
 ![vdc](/images/vdc06.PNG)
 ![vdc](/images/vdc05.PNG)
 
+---
+
+**Related Content**
+
+![green](/images/green22.jpg)
+<a href="https://www.corenet.gov.sg/media/2094675/singapore-vdc-guide_version1_oct2017.pdf" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>LEARN MORE</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
