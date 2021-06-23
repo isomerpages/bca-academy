@@ -28,3 +28,7 @@ Smart FM  Challenge has been successfully launched on 1 Sept 2020, with more tha
 <a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/guide_to_smart_fm.pdf" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>Guide to Smart FM</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+	
+<a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/facilities-management/quick-guide-to-5-step-smart-process.pdf?sfvrsn=51f205b8_0" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span> Infographics on 5-step SMART process</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
