@@ -34,7 +34,11 @@ Linking extra 'dimensions' of data to your information models has the potential 
 
 **Related Content**
 
-![green](/images/vdc07.png)
-<a href="https://www.corenet.gov.sg/media/2094675/singapore-vdc-guide_version1_oct2017.pdf" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>LEARN MORE</span>
+![green](/images/bim01.png)
+<a href="https://www.corenet.gov.sg/general/bim-guides/singapore-bim-guide-version-20.aspx" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>Singapore BIM Guide </span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+	
+<a href="https://www.corenet.gov.sg/general/bim-guides/singapore-bim-guide-version-20.aspx" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>Singapore BIM Guide </span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
