@@ -27,7 +27,7 @@ Our buildings are an important part of Singapore’s climate change mitigation s
 
 **Related Content**
 
-![DFMA](/images/dfma08.jpg)
+![green](/images/green22.jpg)
 <a href="https://www1.bca.gov.sg/buildsg-emag/articles?topic-tags=green-buildings" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
 	<span>LEARN MORE</span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
