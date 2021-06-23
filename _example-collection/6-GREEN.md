@@ -21,7 +21,7 @@ Our buildings are an important part of Singapore’s climate change mitigation s
 ![Sustainable Dessvelopment](/images/gr03.PNG)
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1617168360344!6m8!1m7!1sCAoSLEFGMVFpcFBpWkxNRnRJTWNDVVk3YlB3dXdrblJXLVktS1Bqa1VDTnhMWmFX!2m2!1d1.345136000579391!2d103.8585216924548!3f294.6743640715544!4f-15.420722568837334!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1617168360344!6m8!1m7!1sCAoSLEFGMVFpcFBpWkxNRnRJTWNDVVk3YlB3dXdrblJXLVktS1Bqa1VDTnhMWmFX!2m2!1d1.345136000579391!2d103.8585216924548!3f294.6743640715544!4f-15.420722568837334!5f0.7820865974627469" width="750" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1617168360344!6m8!1m7!1sCAoSLEFGMVFpcFBpWkxNRnRJTWNDVVk3YlB3dXdrblJXLVktS1Bqa1VDTnhMWmFX!2m2!1d1.345136000579391!2d103.8585216924548!3f294.6743640715544!4f-15.420722568837334!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 
