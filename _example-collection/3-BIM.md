@@ -39,6 +39,6 @@ Linking extra 'dimensions' of data to your information models has the potential 
 	<span>Singapore BIM Guide </span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 	
-<a href="https://www.corenet.gov.sg/general/bim-guides/singapore-bim-guide-version-20.aspx" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>Singapore BIM Guide </span>
+<a href="https://www.corenet.gov.sg/general/bim-guides/bim-essential-guides.aspx" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>BIM Essential Guides </span>
 	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
