@@ -8,6 +8,7 @@ permalink: /key-focus-areas/vision87/
 ![Sustainablt](/images/white.PNG)
 ![cde](/images/cde02.PNG)
 ![cde](/images/cde03.PNG)
+![Sustainablt](/images/white.PNG)
 ![cde](/images/cde01.PNG)
 
 <blockquote>
