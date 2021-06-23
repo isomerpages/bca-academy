@@ -10,7 +10,7 @@ permalink: /key-focus-areas/vision5/
 ![DFMA](/images/dfma04.PNG)
 
 
-![DFMA](/images/dfma05.PNG)
+![DFMA](/images/dfma06.PNG)
 ![DFMA](/images/dfma03.jpg)
 
 
