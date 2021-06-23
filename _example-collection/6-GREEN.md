@@ -23,5 +23,13 @@ Our buildings are an important part of Singapore’s climate change mitigation s
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1617168360344!6m8!1m7!1sCAoSLEFGMVFpcFBpWkxNRnRJTWNDVVk3YlB3dXdrblJXLVktS1Bqa1VDTnhMWmFX!2m2!1d1.345136000579391!2d103.8585216924548!3f294.6743640715544!4f-15.420722568837334!5f0.7820865974627469" width="850" height="550" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
+---
+
+**Related Content**
+
+![DFMA](/images/dfma08.jpg)
+<a href="https://www1.bca.gov.sg/buildsg-emag/articles?topic-tags=design-for-manufacturing-and-assembly-(dfma)" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>LEARN MORE</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
 
 
