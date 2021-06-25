@@ -11,11 +11,11 @@ sections:
         subtitle: 
         background: /images/cv006.jpg
         key_highlights:
-        - title: Highlight A
-          description: BE eLearning Portal
+        - title: BE eLearning Portal
+          description: Login
           url: https://google.com
-        - title: Highlight B
-          description: Find BE related courses
+        - title: Find BE related courses
+          description: 
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
