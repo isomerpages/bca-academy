@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Build what's nExt
         subtitle: 
-        background: /images/cv001.jpg
+        background: /images/cv002.jpg
     - infobar:
         subtitle: WELCOME
         description: </p><img class="mse-infopic-media-left" src="/images/be01.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none">
