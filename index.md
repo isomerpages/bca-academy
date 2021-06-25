@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/cv005.jpg
+        background: /images/cv006.jpg
         key_highlights:
         - title: Highlight A
           description: Important highlight A is important
