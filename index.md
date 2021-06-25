@@ -32,7 +32,7 @@ sections:
         image: /images/cover1.PNG
         alt: Why Green Plan
     - infopic:
-        title: What Are The Targets for the BE Transformation?
+        title: What Are the BE Transformation Targets?
         description: </p><p><ul><li>- Integrated Digital Delivery (IDD) up to 60 projects by 2020</li><li>- DfMA adoption to 40% by 2020</li><li>- Green 80% of building by 2030 </li><li> . </li><li>By 2025, skills-training for:</li><li>- 20,000 in BIM/IDD</li><li>- 35,000 in DfMA</li><li>- 25,000 in Green Building Technology</li></ul>
         button: View more
         url: /key-focus-areas/our-targets/
