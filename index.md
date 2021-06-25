@@ -4,7 +4,7 @@ title: BE Knowledge Hub
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: click here to login to eLearn
+notification: 
 sections:
     - hero:
         title: 
@@ -12,10 +12,10 @@ sections:
         background: /images/cv006.jpg
         key_highlights:
         - title: Highlight A
-          description: Important highlight A is important
+          description: BE eLearning Portal
           url: https://google.com
         - title: Highlight B
-          description: Important highlight B is equally important
+          description: Find BE related courses
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
