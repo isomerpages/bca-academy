@@ -11,14 +11,14 @@ sections:
         subtitle: 
         background: /images/cv006.jpg
         key_highlights:
-        - title: BE eLearning Portal
+        - title: eLearning Portal
           description: Login
           url: https://google.com
-        - title: Find BE related courses
-          description: 
+        - title: courses
+          description: Explore BE related courses
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: iBUILDsg
+          description: 
           url: /privacy/
     - infobar:
         subtitle: WELCOME
