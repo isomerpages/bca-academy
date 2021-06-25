@@ -46,7 +46,7 @@ sections:
 
         subtitle: WELCOME 
 
-        description: </p><img class="mse-infopic-media-left" src="/images/cvv100.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none"> 
+        description: </p><img class="mse-infopic-media-left" src="/images/cvv101.PNG" alt="partner" /><p class="mse-none"> </p><img class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner" /><p class="mse-none"> 
 
     - infobar: 
 
