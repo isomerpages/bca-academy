@@ -1,5 +1,5 @@
 ---
-title: CDE Data Standard
+title: COURSES
 description:  
 permalink: /courses/vision8887/
 ---
