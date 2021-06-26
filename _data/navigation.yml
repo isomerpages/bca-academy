@@ -11,6 +11,8 @@ links:
     url: /example-page/
   - title: Key Focus Areas
     collection: example-collection
+  - title: BE Transformative
+    collection: BE-Transformation
   - title: Key Areas
     url: /example-collection2/
     sublinks:
