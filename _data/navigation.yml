@@ -11,8 +11,8 @@ links:
     url: /example-page/
   - title: Key Focus Areas
     collection: example-collection
-  - title: Courses
-    collection: BE-Transformation
+  - title: Key Focus Areas
+    collection: example-collection
   - title: Resources
     resource_room: true
   - title: Contact Us
