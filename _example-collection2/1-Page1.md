@@ -1,5 +1,5 @@
 ---
-title: CDE Data Standard
+title: CDE Data Standardsd
 description:  
 permalink: /key-areas/visiotn87/
 ---
