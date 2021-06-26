@@ -1,7 +1,7 @@
 ---
 title: Construction Industry Transformation Map
 description: 
-permalink: /key-focus-areas/green-government/
+permalink: /key-focus-areas/citm/
 ---
 
 
