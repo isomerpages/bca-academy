@@ -12,7 +12,10 @@ links:
   - title: Key Focus Areas
     collection: example-collection
   - title: Key Areas
-    collection: example-collection2
+    url: /example-collection2/
+    sublinks:
+      - title: Overview
+        url: /run-and-grow/
   - title: Resources
     resource_room: true
   - title: Contact Us
