@@ -17,7 +17,7 @@ links:
     url: /example-collection2/
     sublinks:
       - title: Overview
-        url: /example-collection2/course001/
+        url: /course001/
   - title: Resources
     resource_room: true
   - title: Contact Us
