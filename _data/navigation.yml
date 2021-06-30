@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /example-page/
+  - title: X1
+    url: /X1/
   - title: Key Focus Areas
     collection: example-collection
   - title: BE Transformative
