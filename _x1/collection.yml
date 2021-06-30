@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - course1.md
+      - page2.md
