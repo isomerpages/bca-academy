@@ -1,4 +1,5 @@
 collections:
   x1:
     output: true
-    order: []
+    order:
+      - course1.md
