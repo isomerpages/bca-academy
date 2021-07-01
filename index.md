@@ -8,7 +8,7 @@ notification: null
 sections:
   - hero:
       title: Building what's nExt
-      subtitle: BE Transformative
+      subtitle: Redefining Learning for the Built Environment (BE)
       background: /images/cover200.jpg
       key_highlights:
         - title: eLearning Portal
