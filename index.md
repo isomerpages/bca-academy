@@ -49,8 +49,8 @@ sections:
       image: /images/cover2.PNG
       alt: Impact
   - carousel:
-      - title: CITM
-        subtitle: CITM
+      - title: null
+        subtitle: null
         description: CITM envisions an advanced and integrated BE sector with adoption
           of leading technologies, led by progressive and collaborative firms;
           and supported by a skilled and competent workforce
@@ -67,18 +67,8 @@ sections:
         url: hhttps://www.instagram.com/tpsalvo/
         image: /images/citm02.PNG
         alt: Salvo2
-      - title: IDD/BIM
-        subtitle: CITM
-        description: Building Information Modelling (BIM) is identified as a key
-          technology to improve productivity & level of integration across
-          various disciplines across the entire construction value chain.
-          Adoption of BIM is key to the success of Integrated Digital Delivery
-          (IDD).
-        url: hhttps://www.instagram.com/tpsalvo/
-        image: /images/citm02.PNG
-        alt: Salvo2
-      - title: DfMA
-        subtitle: CITM
+      - title: Salvo Drums
+        subtitle: Featured CCA
         description: Choreographed Synchonised Movements
         url: https://www.instagram.com/tpsalvo/
         image: /images/citm03.PNG
@@ -92,15 +82,21 @@ sections:
   - infobar:
       title: BE. Skilled
       subtitle: null
-      description: In today’s global economy, you need to upskill and re-skill to be future-ready, resilient & future-proof. Enhance your competitiveness by gaining knowledge and skills through these BE-related courses </p><img
-        class="mse-infopic-media-left" src="/images/course1000.PNG" alt="partner" /><p
+      description: The Skills Framework (SFw) for Built Environment contains info on
+        the sector, occupations/job roles, skills & competencies required for
+        each job role, career pathways, and list of training programmes to help
+        facilitate skills upgrading & mastery</p><img
+        class="mse-infopic-media-left" src="/images/sfw1.PNG" alt="partner" /><p
         class="mse-none"> </p><img class="mse-infopic-media-left"
         src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
-    - infobar:
-      title: BE. Insightful
+  - infobar:
+      title: BE. Insighful
       subtitle: null
-      description: In today’s global economy, you need to upskill and re-skill to be future-ready, resilient & future-proof. Enhance your competitiveness by gaining knowledge and skills through these BE-related courses </p><img
-        class="mse-infopic-media-left" src="/images/course1000.PNG" alt="partner" /><p
+      description: The Skills Framework (SFw) for Built Environment contains info on
+        the sector, occupations/job roles, skills & competencies required for
+        each job role, career pathways, and list of training programmes to help
+        facilitate skills upgrading & mastery</p><img
+        class="mse-infopic-media-left" src="/images/sfw1.PNG" alt="partner" /><p
         class="mse-none"> </p><img class="mse-infopic-media-left"
         src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
   - resources:
