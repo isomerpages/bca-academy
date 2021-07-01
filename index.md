@@ -49,7 +49,7 @@ sections:
       image: /images/cover2.PNG
       alt: Impact
   - carousel:
-      - title: null
+      - title: CITM
         subtitle: null
         description: CITM envisions an advanced and integrated BE sector with adoption
           of leading technologies, led by progressive and collaborative firms;
@@ -67,7 +67,7 @@ sections:
         url: hhttps://www.instagram.com/tpsalvo/
         image: /images/citm02.PNG
         alt: Salvo2
-      - title: Salvo Drums
+      - title: DfMA
         subtitle: Featured CCA
         description: Choreographed Synchonised Movements
         url: https://www.instagram.com/tpsalvo/
