@@ -9,7 +9,7 @@ sections:
   - hero:
       title: null
       subtitle: null
-      background: /images/cv006.jpg
+      background: /images/cover200.jpg
       key_highlights:
         - title: eLearning Portal
           description: Login
