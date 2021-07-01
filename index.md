@@ -92,10 +92,7 @@ sections:
   - infobar:
       title: BE. Skilled
       subtitle: null
-      description: The Skills Framework (SFw) for Built Environment contains info on
-        the sector, occupations/job roles, skills & competencies required for
-        each job role, career pathways, and list of training programmes to help
-        facilitate skills upgrading & mastery</p><img
+      description: In today’s global economy, you need to upskill and re-skill to be future-ready, resilient & future-proof. Enhance your competitiveness by gaining knowledge and skills through these BE-related courses </p><img
         class="mse-infopic-media-left" src="/images/sfw1.PNG" alt="partner" /><p
         class="mse-none"> </p><img class="mse-infopic-media-left"
         src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
