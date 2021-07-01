@@ -7,8 +7,8 @@ permalink: /
 notification: null
 sections:
   - hero:
-      title: BE
-      subtitle: IN AWE
+      title: Building what's nExt
+      subtitle: BE Transformative
       background: /images/cover200.jpg
       key_highlights:
         - title: eLearning Portal
