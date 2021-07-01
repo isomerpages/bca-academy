@@ -7,8 +7,8 @@ permalink: /
 notification: null
 sections:
   - hero:
-      title: null
-      subtitle: null
+      title: BE
+      subtitle: IN AWE
       background: /images/cover200.jpg
       key_highlights:
         - title: eLearning Portal
