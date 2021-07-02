@@ -25,6 +25,8 @@ sections:
       description: </p><img class="mse-infopic-media-left" src="/images/hub003.PNG"
         alt="partner" /><p class="mse-none"> </p><img
         class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner"
+        /><p class="mse-none"> </p><img
+        class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner"
         /><p class="mse-none">
   - infobar:
       subtitle: Our Partners
