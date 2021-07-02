@@ -95,9 +95,9 @@ sections:
       title: BE. Insighful
       subtitle: null
       description: In today’s global economy, you need to upskill and re-skill to be future-ready, resilient & future-proof. Enhance your competitiveness by gaining knowledge and skills through these BE-related courses </p><img
-        class="mse-infopic-media-left" src="/images/sfw1.PNG" alt="partner" /><p
+        class="mse-infopic-media-left" src="/images/inq001.PNG" alt="partner" /><p
         class="mse-none"> </p><img class="mse-infopic-media-left"
-        src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
+        src="/images/inq002.PNG" alt="partner" /><p class="mse-none">
   - resources:
       title: Media
       subtitle: Learn more
