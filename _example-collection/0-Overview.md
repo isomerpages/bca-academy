@@ -3,24 +3,8 @@ title: Overview
 description:  
 permalink: /key-focus-areas/visions87/
 ---
-### Common Data Environment (CDE) allows project teams to create, organise and share information to foster collaboration, make timely decisions and take early interventions during the project’s delivery and building maintenance lifecycle. Data Standards specify what information is required for a building project and how it can be structured to facilitate sharing and collaboration among project team members using a Common Data Environment.
-
+### Integrated Digital Delivery (IDD) streamlines work processes and connects stakeholders through digital data, innovation and technology across the whole project life cycle from design, construction, fabrication, to facilities management to deliver a better outcome for end users
 ![Sustainablt](/images/white.PNG)
-![cde](/images/cde02.PNG)
-![cde](/images/cde03.PNG)
-![Sustainablt](/images/white.PNG)
-![cde](/images/cde01.PNG)
-
-<blockquote>
-  <p>The successful management of timely, accurate and complete information based on a set of data standards can affect a project’s outcome </p>
-  <span class="author"></span>
-</blockquote>
-
-
----
-
-**Related Content**
-
-<a href="https://www1.bca.gov.sg/docs/default-source/docs-corp-buildsg/integrated-digital-delivery-(idd)/cde-data-standard.pdf" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>Click here to download the CDE Data Standard </span>
-	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+<iframe width="820" height="515" src="https://www.youtube.com/embed/04EunnNFfRg?rel=0&autoplay=1&mute=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+	
