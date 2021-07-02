@@ -49,7 +49,7 @@ sections:
       image: /images/cover2.PNG
       alt: Impact
   - carousel:
-      - title: null
+      - title: CITM
         subtitle: null
         description: CITM envisions an advanced and integrated BE sector with adoption
           of leading technologies, led by progressive and collaborative firms;
