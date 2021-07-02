@@ -99,7 +99,7 @@ sections:
         class="mse-none"> </p><img class="mse-infopic-media-left"
         src="/images/inq002.PNG" alt="partner" /><p class="mse-none">
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: BE. Inspired
+      subtitle: null
       button: View More
 ---
