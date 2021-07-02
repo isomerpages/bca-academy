@@ -98,15 +98,6 @@ sections:
         class="mse-infopic-media-left" src="/images/sfw1.PNG" alt="partner" /><p
         class="mse-none"> </p><img class="mse-infopic-media-left"
         src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
-  - carousel:
-      - title: CITM
-        subtitle: null
-        description: CITM envisions an advanced and integrated BE sector with adoption
-          of leading technologies, led by progressive and collaborative firms;
-          and supported by a skilled and competent workforce
-        url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
-        image: /images/citm01.PNG
-        alt: Salvo1
   - resources:
       title: Media
       subtitle: Learn more
