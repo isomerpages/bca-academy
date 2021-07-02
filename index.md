@@ -21,7 +21,7 @@ sections:
           description: null
           url: /privacy/
   - infobar:
-      subtitle: intoducing
+      subtitle: WELCOME 
       description: </p><img class="mse-infopic-media-left" src="/images/hub001.PNG"
         alt="partner" /><p class="mse-none"> </p><img
         class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner"
@@ -67,9 +67,9 @@ sections:
         url: hhttps://www.instagram.com/tpsalvo/
         image: /images/citm02.PNG
         alt: Salvo2
-      - title: Salvo Drums
-        subtitle: Featured CCA
-        description: Choreographed Synchonised Movements
+      - title: DfMA
+        subtitle: CITM
+        description: The DfMA approach is leading the transformation of the BE sector through leveraging advanced technology, improved quality & precision of construction
         url: https://www.instagram.com/tpsalvo/
         image: /images/citm03.PNG
         alt: Salvo3
