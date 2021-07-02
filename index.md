@@ -15,7 +15,7 @@ sections:
           description: Login
           url: https://google.com
         - title: courses
-          description: Explore BE related courses
+          description: Explore BE-related courses
           url: https://gmail.com
         - title: iBUILDsg
           description: null
