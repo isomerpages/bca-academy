@@ -21,7 +21,7 @@ sections:
           description: null
           url: /privacy/
   - infobar:
-      subtitle: WELCOME
+      subtitle: intoducing
       description: </p><img class="mse-infopic-media-left" src="/images/hub001.PNG"
         alt="partner" /><p class="mse-none"> </p><img
         class="mse-infopic-media-left" src="/images/cover3.PNG" alt="partner"
