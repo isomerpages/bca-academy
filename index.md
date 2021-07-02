@@ -92,9 +92,9 @@ sections:
         class="mse-none"> </p><img class="mse-infopic-media-left"
         src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
   - infobar:
-      title: BE. Insighful
+      title: BE. Inquisitive
       subtitle: null
-      description: In today’s global economy, you need to upskill and re-skill to be future-ready, resilient & future-proof. Enhance your competitiveness by gaining knowledge and skills through these BE-related courses </p><img
+      description: In today’s economy, you need to upskill and re-skill to be future-ready, resilient & future-proof. You need to have an inquisitive mind to adopt the learn-unlearn-relearn process. Enhance your competitiveness by gaining knowledge and skills through these BE-related courses </p><img
         class="mse-infopic-media-left" src="/images/inq001.PNG" alt="partner" /><p
         class="mse-none"> </p><img class="mse-infopic-media-left"
         src="/images/inq002.PNG" alt="partner" /><p class="mse-none">
