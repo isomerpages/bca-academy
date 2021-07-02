@@ -69,13 +69,13 @@ sections:
         alt: Salvo2
       - title: DfMA
         subtitle: CITM
-        description: The DfMA approach is leading the transformation of the BE sector through leveraging advanced technology, improved quality & precision of construction
+        description: Design for Manufacturing and Assembly (DfMA) approach is leading the transformation of the BE sector through leveraging advanced technology, improved quality & precision of construction
         url: https://www.instagram.com/tpsalvo/
         image: /images/citm03.PNG
         alt: Salvo3
-      - title: Salvo Drums
-        subtitle: Featured CCA
-        description: Choreographed Synchonised Movements
+      - title: Green Buildings
+        subtitle: CITM
+        description: Did you know that buildings account for over 20% of emissions in Singapore? Our buildings are an important part of Singapore’s climate change mitigation strategy and can directly contribute to more efficient energy use. 
         url: https://www.instagram.com/tpsalvo/
         image: /images/citm04.PNG
         alt: Salvo3
