@@ -2,11 +2,11 @@ logo: /images/belogo5.PNG
 links:
   - title: About Us
     url: /example-page/
-  - title: Key Focus Areas
+  - title: BE.Transformative
     collection: example-collection
-  - title: BE Transformative
+  - title: BE.Inquisitive
     collection: BE-Transformation
-  - title: Key Areas
+  - title: Key
     url: /example-collection2/
     sublinks:
       - title: Overview
