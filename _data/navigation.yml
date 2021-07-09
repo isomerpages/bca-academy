@@ -13,7 +13,9 @@ links:
         url: /course001/
   - title: Resources
     resource_room: true
-  - title: Contact Us
+  - title: Contact
     url: /contact-us/
+  - title: X2
+    url: /be-skilled/
   - title: X1
     collection: x1
