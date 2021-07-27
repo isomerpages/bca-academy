@@ -7,10 +7,7 @@ links:
   - title: BE.Inquisitive
     collection: BE-Transformation
   - title: Key
-    url: /example-collection2/
-    sublinks:
-      - title: Overview
-        url: /course001/
+    collection: example-collection
   - title: Resources
     resource_room: true
   - title: Contact
