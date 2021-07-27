@@ -1,5 +1,5 @@
 ---
-title: Example Single Page
+title: About Us
 permalink: /example-page
 ---
 # BE. Skilled
