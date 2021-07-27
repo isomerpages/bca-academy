@@ -1,4 +1,4 @@
 ---
-title: Courses
+title: BE Inquisitive
 permalink: /courses
 ---
