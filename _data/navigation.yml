@@ -1,7 +1,7 @@
 logo: /images/belogo5.PNG
 links:
   - title: About Us
-    url: /example-page/
+    url: /about/
   - title: BE.Transformative
     collection: example-collection
   - title: BE.Inquisitive
