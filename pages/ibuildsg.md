@@ -1,5 +1,5 @@
 ---
-title: IBUILDSG
+title: iBuildSG
 permalink: /ibuildsg
 ---
 Testing
