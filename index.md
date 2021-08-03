@@ -19,7 +19,7 @@ sections:
           url: https://gmail.com
         - title: iBUILDsg
           description: null
-          url: /privacy/
+          url: /ibuildsg/
   - infobar:
       subtitle: WELCOME 
       description: </p><img class="mse-infopic-media-left" src="/images/hub003.PNG"
