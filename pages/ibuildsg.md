@@ -8,13 +8,14 @@ permalink: /ibuildsg
 
 ![Alt text for image on Isomer site](/images/i007.PNG)
 
-
-![Alt text for image on Isomer site](/images/i008.PNG)
+![Alt text for image on Isomer site](/images/i010.PNG)
 ![Alt text for image on Isomer site](/images/i009.PNG)
 ![Alt text for image on Isomer site](/images/df392fb90619818047bf4f09e0adbc36.gif)
+
 ![Alt text for image on Isomer site](/images/i002.PNG)
 ![Alt text for image on Isomer site](/images/i003.PNG)
 ![Alt text for image on Isomer site](/images/i004.PNG)
+
 
 
 ![Alt text for image on Isomer site](/images/i005.PNG)
