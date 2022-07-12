@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: eLearning Portal
           description: Login
-          url: https://google.com
+          url: https://lms.bcaa.edu.sg/
         - title: courses
           description: Explore BE-related courses
-          url: https://gmail.com
+          url: https://lms.bcaa.edu.sg/
         - title: iBUILDsg
           description: null
           url: /ibuildsg/
