@@ -6,9 +6,7 @@ links:
     collection: example-collection
   - title: BE.Inquisitive
     url: /courses/
-  - title: Key
-    collection: courses
-  - title: Resources
+   - title: Resources
     resource_room: true
   - title: Contact
     url: /contact-us/  
