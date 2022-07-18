@@ -102,9 +102,15 @@ sections:
       title: BE. Inspired
       subtitle: null
       button: View More
+- infobar:
+      title: BE. Skilled
+      subtitle: null
+      description: The Skills Framework (SFw) for Built Environment contains info on
+        the sector, occupations/job roles, skills & competencies required for
+        each job role, career pathways, and list of training programmes to help
+        facilitate skills upgrading & mastery</p><img
+        class="mse-infopic-media-left" src="/images/sfw1.PNG" alt="partner" /><p
+        class="mse-none"> </p><img class="mse-infopic-media-left"
+        src="/images/sfw.PNG" alt="partner" /><p class="mse-none">
 ---
 
-![DFMA](/images/idd20.jpg)
-<a href="https://www1.bca.gov.sg/buildsg-emag/articles?topic-tags=integrated-digital-delivery-(idd)" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
-	<span>LEARN MORE</span>
-	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
