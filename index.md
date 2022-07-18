@@ -7,7 +7,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      title: Build what's nExt
+      title: Build what's nExtttt
       subtitle: Re-imagining the future of learning for Built Environment (BE)
       background: /images/cover200.jpg
       key_highlights:
