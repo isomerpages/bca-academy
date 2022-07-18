@@ -8,7 +8,7 @@ notification: null
 sections:
   - hero:
       title: Build what's nExtttt
-      subtitle: Re-imagining the future of learning for Built Environment (BE)
+      subtitle: Re-imagining future of learning for the Built Environment (BE)
       background: /images/cover200.jpg
       key_highlights:
         - title: eLearning Portal
