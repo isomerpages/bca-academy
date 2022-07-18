@@ -103,3 +103,8 @@ sections:
       subtitle: null
       button: View More
 ---
+
+![DFMA](/images/idd20.jpg)
+<a href="https://www1.bca.gov.sg/buildsg-emag/articles?topic-tags=integrated-digital-delivery-(idd)" class="front-page-cta bp-sec-button margin--top padding--bottom" target="_blank">
+	<span>LEARN MORE</span>
+	<i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
