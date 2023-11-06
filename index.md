@@ -4,7 +4,7 @@ title: BE Knowledge Hub
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       title: Build what's nExtttt
